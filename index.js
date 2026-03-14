@@ -70,89 +70,15 @@
   // Initialize viewer.
   var viewer = new Marzipano.Viewer(panoElement, viewerOpts);
 
-  // Current active scene.
-  var currentScene = null;
-
-  // Coords panel.
-  var coordsBox = document.createElement('div');
-  coordsBox.style.position = 'absolute';
-  coordsBox.style.left = '10px';
-  coordsBox.style.bottom = '10px';
-  coordsBox.style.zIndex = '99999';
-  coordsBox.style.padding = '6px 10px';
-  coordsBox.style.background = 'rgba(0,0,0,0.35)';
-  coordsBox.style.color = 'rgba(255,255,255,0.7)';
-  coordsBox.style.fontFamily = 'monospace';
-  coordsBox.style.fontSize = '11px';
-  coordsBox.style.borderRadius = '4px';
-  coordsBox.style.pointerEvents = 'none';
-  coordsBox.style.whiteSpace = 'nowrap';
-  coordsBox.textContent = 'yaw: --- | pitch: ---';
-  document.body.appendChild(coordsBox);
-
-  function getCoordsFromMouseEvent(e) {
-    if (!currentScene || !currentScene.view) {
-      return null;
-    }
-
-    var rect = panoElement.getBoundingClientRect();
-    var x = e.clientX - rect.left;
-    var y = e.clientY - rect.top;
-
-    try {
-      return currentScene.view.screenToCoordinates({ x: x, y: y }, { width: rect.width, height: rect.height });
-    } catch (err) {
-      try {
-        return currentScene.view.screenToCoordinates({ x: x, y: y }, rect);
-      } catch (err2) {
-        return null;
-      }
-    }
-  }
-
-  panoElement.addEventListener('mousemove', function(e) {
-    var coords = getCoordsFromMouseEvent(e);
-    if (!coords) {
-      coordsBox.textContent = 'yaw: --- | pitch: ---';
-      return;
-    }
-
-    coordsBox.textContent =
-      'yaw: ' + coords.yaw.toFixed(6) +
-      ' | pitch: ' + coords.pitch.toFixed(6);
-  });
-
-  panoElement.addEventListener('click', function(e) {
-    var coords = getCoordsFromMouseEvent(e);
-    if (!coords) {
-      return;
-    }
-
-    coordsBox.textContent =
-      'yaw: ' + coords.yaw.toFixed(6) +
-      ' | pitch: ' + coords.pitch.toFixed(6);
-
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(
-        'yaw: ' + coords.yaw.toFixed(6) + ', pitch: ' + coords.pitch.toFixed(6)
-      ).catch(function() {});
-    }
-  });
-
   // Create scenes.
   var scenes = data.scenes.map(function(data) {
     var urlPrefix = "tiles";
     var source = Marzipano.ImageUrlSource.fromString(
       urlPrefix + "/" + data.id + "/{z}/{f}/{y}/{x}.jpg",
-      { cubeMapPreviewUrl: urlPrefix + "/" + data.id + "/preview.jpg" }
-    );
+      { cubeMapPreviewUrl: urlPrefix + "/" + data.id + "/preview.jpg" });
     var geometry = new Marzipano.CubeGeometry(data.levels);
 
-    var limiter = Marzipano.RectilinearView.limit.traditional(
-      data.faceSize,
-      100 * Math.PI / 180,
-      120 * Math.PI / 180
-    );
+    var limiter = Marzipano.RectilinearView.limit.traditional(data.faceSize, 100*Math.PI/180, 120*Math.PI/180);
     var view = new Marzipano.RectilinearView(data.initialViewParameters, limiter);
 
     var scene = viewer.createScene({
@@ -165,19 +91,13 @@
     // Create link hotspots.
     data.linkHotspots.forEach(function(hotspot) {
       var element = createLinkHotspotElement(hotspot);
-      scene.hotspotContainer().createHotspot(element, {
-        yaw: hotspot.yaw,
-        pitch: hotspot.pitch
-      });
+      scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
     });
 
     // Create info hotspots.
     data.infoHotspots.forEach(function(hotspot) {
       var element = createInfoHotspotElement(hotspot);
-      scene.hotspotContainer().createHotspot(element, {
-        yaw: hotspot.yaw,
-        pitch: hotspot.pitch
-      });
+      scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
     });
 
     return {
@@ -191,9 +111,8 @@
   var autorotate = Marzipano.autorotate({
     yawSpeed: 0.03,
     targetPitch: 0,
-    targetFov: Math.PI / 2
+    targetFov: Math.PI/2
   });
-
   if (data.settings.autorotateEnabled) {
     autorotateToggleElement.classList.add('enabled');
   }
@@ -231,6 +150,7 @@
     var el = document.querySelector('#sceneList .scene[data-id="' + scene.data.id + '"]');
     el.addEventListener('click', function() {
       switchScene(scene);
+      // On mobile, hide scene list after selecting a scene.
       if (document.body.classList.contains('mobile')) {
         hideSceneList();
       }
@@ -251,19 +171,18 @@
 
   // Associate view controls with elements.
   var controls = viewer.controls();
-  controls.registerMethod('upElement', new Marzipano.ElementPressControlMethod(viewUpElement, 'y', -velocity, friction), true);
-  controls.registerMethod('downElement', new Marzipano.ElementPressControlMethod(viewDownElement, 'y', velocity, friction), true);
-  controls.registerMethod('leftElement', new Marzipano.ElementPressControlMethod(viewLeftElement, 'x', -velocity, friction), true);
-  controls.registerMethod('rightElement', new Marzipano.ElementPressControlMethod(viewRightElement, 'x', velocity, friction), true);
-  controls.registerMethod('inElement', new Marzipano.ElementPressControlMethod(viewInElement, 'zoom', -velocity, friction), true);
-  controls.registerMethod('outElement', new Marzipano.ElementPressControlMethod(viewOutElement, 'zoom', velocity, friction), true);
+  controls.registerMethod('upElement',    new Marzipano.ElementPressControlMethod(viewUpElement,     'y', -velocity, friction), true);
+  controls.registerMethod('downElement',  new Marzipano.ElementPressControlMethod(viewDownElement,   'y',  velocity, friction), true);
+  controls.registerMethod('leftElement',  new Marzipano.ElementPressControlMethod(viewLeftElement,   'x', -velocity, friction), true);
+  controls.registerMethod('rightElement', new Marzipano.ElementPressControlMethod(viewRightElement,  'x',  velocity, friction), true);
+  controls.registerMethod('inElement',    new Marzipano.ElementPressControlMethod(viewInElement,  'zoom', -velocity, friction), true);
+  controls.registerMethod('outElement',   new Marzipano.ElementPressControlMethod(viewOutElement, 'zoom',  velocity, friction), true);
 
   function sanitize(s) {
     return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;');
   }
 
   function switchScene(scene) {
-    currentScene = scene;
     stopAutorotate();
     scene.view.setParameters(scene.data.initialViewParameters);
     scene.scene.switchTo();
@@ -326,6 +245,7 @@
   }
 
   function createLinkHotspotElement(hotspot) {
+
     // Create wrapper element to hold icon and tooltip.
     var wrapper = document.createElement('div');
     wrapper.classList.add('hotspot');
@@ -337,7 +257,7 @@
     icon.classList.add('link-hotspot-icon');
 
     // Set rotation transform.
-    var transformProperties = ['-ms-transform', '-webkit-transform', 'transform'];
+    var transformProperties = [ '-ms-transform', '-webkit-transform', 'transform' ];
     for (var i = 0; i < transformProperties.length; i++) {
       var property = transformProperties[i];
       icon.style[property] = 'rotate(' + hotspot.rotation + 'rad)';
@@ -349,6 +269,7 @@
     });
 
     // Prevent touch and scroll events from reaching the parent element.
+    // This prevents the view control logic from interfering with the hotspot.
     stopTouchAndScrollEventPropagation(wrapper);
 
     // Create tooltip element.
@@ -364,6 +285,7 @@
   }
 
   function createInfoHotspotElement(hotspot) {
+
     // Create wrapper element to hold icon and tooltip.
     var wrapper = document.createElement('div');
     wrapper.classList.add('hotspot');
@@ -429,14 +351,16 @@
     modal.querySelector('.info-hotspot-close-wrapper').addEventListener('click', toggle);
 
     // Prevent touch and scroll events from reaching the parent element.
+    // This prevents the view control logic from interfering with the hotspot.
     stopTouchAndScrollEventPropagation(wrapper);
 
     return wrapper;
   }
 
   // Prevent touch and scroll events from reaching the parent element.
-  function stopTouchAndScrollEventPropagation(element) {
-    var eventList = ['touchstart', 'touchmove', 'touchend', 'touchcancel', 'wheel', 'mousewheel'];
+  function stopTouchAndScrollEventPropagation(element, eventList) {
+    var eventList = [ 'touchstart', 'touchmove', 'touchend', 'touchcancel',
+                      'wheel', 'mousewheel' ];
     for (var i = 0; i < eventList.length; i++) {
       element.addEventListener(eventList[i], function(event) {
         event.stopPropagation();
