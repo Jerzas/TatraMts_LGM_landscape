@@ -3595,6 +3595,36 @@ var APP_DATA = {
           "pitch": 0.37523682003215875,
           "rotation": 0,
           "target": "18-hrub-vea"
+        },
+        {
+          "yaw": 1.995138,
+          "pitch": -0.082337,
+          "rotation": 0,
+          "target": "17-batizovsk-dolina"
+        },
+        {
+          "yaw": -2.906204,
+          "pitch": 0.006835,
+          "rotation": 0,
+          "target": "15-morskie-oko"
+        },
+        {
+          "yaw": -2.732254,
+          "pitch": -0.003616,
+          "rotation": 0,
+          "target": "11-winica"
+        },
+        {
+          "yaw": 2.988499,
+          "pitch": 0.015370,
+          "rotation": 0,
+          "target": "14-hlinsk-vea"
+        },
+        {
+          "yaw": -0.355967,
+          "pitch": -0.015842,
+          "rotation": 0,
+          "target": "21-lomnick-tt"
         }
       ],
       "infoHotspots": [
@@ -3939,6 +3969,12 @@ var APP_DATA = {
           "yaw": 2.0413687231438793,
           "pitch": 0.3474744446390865,
           "title": "TATRANSKÁ LOMNICA",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.041186,
+          "pitch": 0.245277,
+          "title": "<h2>Javorový štít 2476</h2>",
           "text": "Text"
         }
       ]
