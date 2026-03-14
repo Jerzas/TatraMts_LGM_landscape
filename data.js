@@ -64,7 +64,7 @@ var APP_DATA = {
         {
           "yaw": -0.43090167588195705,
           "pitch": 0.920421023076667,
-          "title": "<h2>Sivý vrch 1804</h2>",
+          "title": "<h2>Sivý vrch 1805</h2>",
           "text": "Text"
         },
         {
@@ -82,7 +82,7 @@ var APP_DATA = {
         {
           "yaw": -1.8016326788465111,
           "pitch": 0.03050479773718706,
-          "title": "Biabia Góra 1725",
+          "title": "Babia Góra 1725",
           "text": "Text"
         },
         {
@@ -104,8 +104,8 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": -0.6004125138454803,
-          "pitch": 0.5462927980766512,
+          "yaw": -0.551,
+          "pitch": 0.69,
           "title": "Bobrovecký glacier",
           "text": "Text"
         },
@@ -329,7 +329,7 @@ var APP_DATA = {
         {
           "yaw": 0.6341395658071711,
           "pitch": 0.07942797175394034,
-          "title": "Baranec 2185",
+          "title": "Baranec 2184",
           "text": "Text"
         },
         {
@@ -570,7 +570,7 @@ var APP_DATA = {
         {
           "yaw": -1.1164191102351602,
           "pitch": 0.2731854646540466,
-          "title": "Chochołowski Glacier",
+          "title": "Chochołowski glacier",
           "text": "Text"
         },
         {
@@ -582,13 +582,13 @@ var APP_DATA = {
         {
           "yaw": 1.8154875823914693,
           "pitch": -0.02529422998203401,
-          "title": "Baranec 2185",
+          "title": "Baranec 2184",
           "text": "Text"
         },
         {
           "yaw": 1.1447533548576025,
           "pitch": 0.20064570219146916,
-          "title": "Jamnícky Glacier",
+          "title": "Jamnícky glacier",
           "text": "Text"
         },
         {
@@ -825,19 +825,19 @@ var APP_DATA = {
         {
           "yaw": -1.9585048952063069,
           "pitch": 0.33395624094920073,
-          "title": "Chochołowski Glacier",
+          "title": "Chochołowski glacier",
           "text": "Text"
         },
         {
           "yaw": -1.4986659836196683,
           "pitch": 0.3919881479855096,
-          "title": "Starorobociański Glacier",
+          "title": "Starorobociański glacier",
           "text": "Text"
         },
         {
           "yaw": -0.7938105391862535,
           "pitch": 0.3815023703559923,
-          "title": "Kościeliski Glacier",
+          "title": "Kościeliski glacier",
           "text": "Text"
         },
         {
@@ -891,13 +891,13 @@ var APP_DATA = {
         {
           "yaw": -2.83493293004096,
           "pitch": 0.665429559419561,
-          "title": "<h2>Jakubina 2193</h2>",
+          "title": "<h2>Jakubina 2194</h2>",
           "text": "Text"
         },
         {
           "yaw": 2.931938721424981,
           "pitch": 0.16186342762703276,
-          "title": "Baranec 2185",
+          "title": "Baranec 2184",
           "text": "Text"
         },
         {
@@ -939,7 +939,7 @@ var APP_DATA = {
         {
           "yaw": 0.21810586581584346,
           "pitch": 0.023784592363796264,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         },
         {
@@ -1150,7 +1150,7 @@ var APP_DATA = {
         {
           "yaw": 0.19562867626202696,
           "pitch": 0.0004820880539906369,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         }
       ]
@@ -1498,6 +1498,12 @@ var APP_DATA = {
           "target": "7-tapz-kiry"
         },
         {
+          "yaw": 1.678,
+          "pitch": 0.030,
+          "rotation": 0,
+          "target": "8-smreczyski-wierch"
+        },
+        {
           "yaw": 2.261557425862744,
           "pitch": -0.05401573163340245,
           "rotation": 0,
@@ -1586,7 +1592,7 @@ var APP_DATA = {
         {
           "yaw": 0.22127132470025046,
           "pitch": -0.0025115032940092874,
-          "title": "<h2>Gerlachovský štít 2655</h2>",
+          "title": "<h2>Gerlachovský štít 2654</h2>",
           "text": "Text"
         },
         {
@@ -1616,7 +1622,7 @@ var APP_DATA = {
         {
           "yaw": -2.4572877989984256,
           "pitch": 0.016769576270316833,
-          "title": "Biabia Góra 1725",
+          "title": "Babia Góra 1725",
           "text": "Text"
         },
         {
@@ -1819,6 +1825,12 @@ var APP_DATA = {
           "pitch": 0.07878269022490869,
           "rotation": 0,
           "target": "10-vek-kopa"
+        },
+        {
+          "yaw": 0.210,
+          "pitch": 0.111,
+          "rotation": 0,
+          "target": "15-morskie-oko"
         }
       ],
       "infoHotspots": [
@@ -2048,6 +2060,12 @@ var APP_DATA = {
           "pitch": -0.08790542273107249,
           "rotation": 0,
           "target": "10-vek-kopa"
+        },
+        {
+          "yaw": -0.652,
+          "pitch": -0.037,
+          "rotation": 0,
+          "target": "15-morskie-oko"
         }
       ],
       "infoHotspots": [
@@ -2096,7 +2114,7 @@ var APP_DATA = {
         {
           "yaw": -0.12495382789500908,
           "pitch": 0.004056915019020835,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         },
         {
@@ -2285,6 +2303,12 @@ var APP_DATA = {
           "pitch": 0.08545193434419573,
           "rotation": 0,
           "target": "10-vek-kopa"
+        },
+        {
+          "yaw": 0.49,
+          "pitch": 0.08,
+          "rotation": 0,
+          "target": "15-morskie-oko"
         }
       ],
       "infoHotspots": [
@@ -2405,7 +2429,7 @@ var APP_DATA = {
         {
           "yaw": -0.8137449074276919,
           "pitch": 0.43212727767214076,
-          "title": "Pięć Stawów Polskich glacier",
+          "title": "Pięć Stawów Polskich cirque field",
           "text": "Text"
         },
         {
@@ -2459,7 +2483,7 @@ var APP_DATA = {
         {
           "yaw": 1.595384059008179,
           "pitch": 0.07095322135278082,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         }
       ]
@@ -2532,6 +2556,18 @@ var APP_DATA = {
           "pitch": 0.017917151509070806,
           "rotation": 0,
           "target": "9-czerwone-wierchy"
+        },
+        {
+          "yaw": -2.853087,
+          "pitch": -0.093850,
+          "rotation": 0,
+          "target": "15-morskie-oko"
+        },
+        {
+          "yaw": 2.136807,
+          "pitch": -0.073363,
+          "rotation": 0,
+          "target": "10-vek-kopa"
         }
       ],
       "infoHotspots": [
@@ -2574,7 +2610,7 @@ var APP_DATA = {
         {
           "yaw": -1.4101792657112941,
           "pitch": 0.03250484409054266,
-          "title": "<h2>Gerlachovský štít 2655</h2>",
+          "title": "<h2>Gerlachovský štít 2654</h2>",
           "text": "Text"
         },
         {
@@ -2925,7 +2961,7 @@ var APP_DATA = {
         {
           "yaw": -2.3628987102578023,
           "pitch": 0.017604041642780288,
-          "title": "Biabia Góra 1725",
+          "title": "Babia Góra 1725",
           "text": "Text"
         },
         {
@@ -2955,7 +2991,7 @@ var APP_DATA = {
         {
           "yaw": 0.5606954342827795,
           "pitch": 0.09671427133943844,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         },
         {
@@ -3052,13 +3088,13 @@ var APP_DATA = {
         {
           "yaw": 0.22451312672711943,
           "pitch": 0.5523612834507663,
-          "title": "Batizovská veža 2379",
+          "title": "Batizovský štít 2448",
           "text": "Text"
         },
         {
           "yaw": 1.115011690679788,
           "pitch": 0.19315484474921085,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         },
         {
@@ -3124,7 +3160,7 @@ var APP_DATA = {
         {
           "yaw": 0.2642885279356939,
           "pitch": 0.29185956452040074,
-          "title": "Hrubá veža 2368",
+          "title": "Hrubá veža 2086",
           "text": "Text"
         },
         {
@@ -3209,13 +3245,25 @@ var APP_DATA = {
           "pitch": 0.062009480836309194,
           "rotation": 0,
           "target": "20-slavkovsk-tt"
+        },
+        {
+          "yaw": -0.813,
+          "pitch": 0.014,
+          "rotation": 0,
+          "target": "15-morskie-oko"
+        },
+        {
+          "yaw": 0.950071,
+          "pitch": 0.012110,
+          "rotation": 0,
+          "target": "21-lomnick-tt"
         }
       ],
       "infoHotspots": [
         {
           "yaw": 0.6449840265883644,
           "pitch": 0.162416444148338,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         },
         {
@@ -3233,7 +3281,7 @@ var APP_DATA = {
         {
           "yaw": -0.021495127393670543,
           "pitch": 0.32764439626388864,
-          "title": "Batizovská veža 2379",
+          "title": "Batizovský štít 2448",
           "text": "Text"
         },
         {
@@ -3360,6 +3408,12 @@ var APP_DATA = {
           "pitch": -0.043021833756426986,
           "rotation": 0,
           "target": "11-winica"
+        },
+        {
+          "yaw": -0.0139,
+          "pitch": -0.047,
+          "rotation": 0,
+          "target": "15-morskie-oko"
         }
       ],
       "infoHotspots": [
@@ -3372,7 +3426,7 @@ var APP_DATA = {
         {
           "yaw": -1.7141091517978708,
           "pitch": -0.111948590369499,
-          "title": "<h2>Gerlachovský štít 2655</h2>",
+          "title": "<h2>Gerlachovský štít 2654</h2>",
           "text": "Text"
         },
         {
@@ -3547,13 +3601,13 @@ var APP_DATA = {
         {
           "yaw": -1.063202560315375,
           "pitch": 0.5140131490720758,
-          "title": "<h2>Svišťový štít 2383</h2>",
+          "title": "<h2>Svišťový štít 2382</h2>",
           "text": "Text"
         },
         {
           "yaw": 1.8358496879085937,
           "pitch": 0.008685733284117703,
-          "title": "Gerlachovský štít 2655",
+          "title": "Gerlachovský štít 2654",
           "text": "Text"
         },
         {
@@ -3681,6 +3735,12 @@ var APP_DATA = {
           "pitch": 0.22113896917290177,
           "title": "Javorový glacier",
           "text": "Text"
+        },
+        {
+          "yaw": -2.784,
+          "pitch": 0.574,
+          "title": "Hrubá veža 2086",
+          "text": "Text"
         }
       ]
     },
@@ -3764,7 +3824,7 @@ var APP_DATA = {
         {
           "yaw": -0.26928249515393077,
           "pitch": 1.1022477205478136,
-          "title": "<h2>Slavkovský štít 2542</h2>",
+          "title": "<h2>Slavkovský štít 2452</h2>",
           "text": "Text"
         },
         {
@@ -3788,7 +3848,7 @@ var APP_DATA = {
         {
           "yaw": -1.006780584638813,
           "pitch": 0.12580030573807477,
-          "title": "<h2>Gerlachovský štít 2655</h2>",
+          "title": "<h2>Gerlachovský štít 2654</h2>",
           "text": "Text"
         },
         {
@@ -3812,7 +3872,7 @@ var APP_DATA = {
         {
           "yaw": -1.632579826002118,
           "pitch": 0.19551970133747965,
-          "title": "<h2>Mengusovská dolina Piedmont Glacier</h2>",
+          "title": "<h2>Mengusovská dolina piedmont glacier</h2>",
           "text": "Text"
         },
         {
@@ -4013,7 +4073,7 @@ var APP_DATA = {
         {
           "yaw": -2.779899806322579,
           "pitch": 0.31847720686366543,
-          "title": "Ladový štít 2628",
+          "title": "Ladový štít 2627",
           "text": "Text"
         },
         {
@@ -4037,7 +4097,7 @@ var APP_DATA = {
         {
           "yaw": -0.5604058602514215,
           "pitch": 0.569568786301172,
-          "title": "<h2>Huncovský štít&nbsp;</h2><h1>2359</h1>",
+          "title": "<h2>Huncovský štít 2359</h2>",
           "text": "Text"
         },
         {
