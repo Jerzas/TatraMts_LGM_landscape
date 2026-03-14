@@ -1,7 +1,208 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-pachoa",
+      "id": "0-siv-vrch",
+      "name": "Sivý vrch",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.12678527116455562,
+        "pitch": 0.44097101626436697,
+        "fov": 1.2008481838330867
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.17593087372454264,
+          "pitch": 0.15729057810890623,
+          "rotation": 0,
+          "target": "1-pachoa"
+        },
+        {
+          "yaw": 0.11925913034236402,
+          "pitch": 0.10381377133653125,
+          "rotation": 0,
+          "target": "2-rohe"
+        },
+        {
+          "yaw": -0.058870537468450834,
+          "pitch": 0.08934893560154933,
+          "rotation": 0,
+          "target": "3-woowiec"
+        },
+        {
+          "yaw": 0.0846093214609418,
+          "pitch": 0.057144950454471655,
+          "rotation": 0,
+          "target": "5-starorobociaski-wierch"
+        },
+        {
+          "yaw": -0.4556004947639032,
+          "pitch": 0.0713984621871564,
+          "rotation": 0,
+          "target": "7-tapz-kiry"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -0.43090167588195705,
+          "pitch": 0.920421023076667,
+          "title": "<h2>Sivý vrch 1804</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.9852652644891631,
+          "pitch": 0.9628463897961428,
+          "title": "<h2>Ostrá 1763</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.7292088428898538,
+          "pitch": 0.5376720567231104,
+          "title": "<h2>Pálenica difluence</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.8016326788465111,
+          "pitch": 0.03050479773718706,
+          "title": "Biabia Góra 1725",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.8641693937351356,
+          "pitch": 0.025654630551848356,
+          "title": "Turbacz 1310",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.6927918294060316,
+          "pitch": 0.03164852393821249,
+          "title": "<h2>Poľana 1458</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.22839739972730655,
+          "pitch": 0.2601478308155869,
+          "title": "<h2>Salatín 2047</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.6004125138454803,
+          "pitch": 0.5462927980766512,
+          "title": "Bobrovecký glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.2544002367529892,
+          "pitch": 0.4172277238129283,
+          "title": "Hlboký glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.744041532027655,
+          "pitch": 0.2715126102467629,
+          "title": "Roháčsky glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.5462168826959282,
+          "pitch": 0.2057510445633639,
+          "title": "<h1>Ráztoka 1950</h1>",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.08140557494402856,
+          "pitch": 0.3930773561466072,
+          "title": "Lysec 1830",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.9457117783549478,
+          "pitch": 0.5181738219983334,
+          "title": "<h2>Jalovecká dolina</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.36714579884980125,
+          "pitch": 0.349274487817274,
+          "title": "<h2>Parichvost glacier</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.06362244727921507,
+          "pitch": 0.5833141897348675,
+          "title": "<h1>Podválovec glacier</h1>",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.99255835529798,
+          "pitch": 0.49130923866631093,
+          "title": "<h1>Holica 1339</h1>",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.804793075918158,
+          "pitch": 0.0720636819875935,
+          "title": "Veľký Choč 1611",
+          "text": "Text"
+        },
+        {
+          "yaw": 3.042494009999401,
+          "pitch": 0.031459058898713366,
+          "title": "Veľký Kriváň 1709",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.4965702002493337,
+          "pitch": 0.0383931553864727,
+          "title": "Ďumbier 2043",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.6477445210503703,
+          "pitch": 0.03676610542049019,
+          "title": "Polica 1369",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.4019474353954138,
+          "pitch": 0.10013646662781817,
+          "title": "Baranec 2184",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.7662827534974959,
+          "pitch": 0.1563614953335133,
+          "title": "Osobitá 1687",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.09017221539971132,
+          "pitch": 0.12922742706971846,
+          "title": "Baníkov 2178",
+          "text": "Text"
+        }
+      ]
+    },
+    {
+      "id": "1-pachoa",
       "name": "Pachoľa",
       "levels": [
         {
@@ -28,34 +229,40 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": -0.24232839911690007,
-        "pitch": 0.2207558320516707,
-        "fov": 0.7551246993300772
+        "yaw": -0.9884799889937366,
+        "pitch": 0.36123577315424704,
+        "fov": 1.0545919829266295
       },
       "linkHotspots": [
         {
           "yaw": 0.0734929825657975,
           "pitch": 0.020655548609539665,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
         },
         {
           "yaw": 0.03228832694327011,
           "pitch": 0.05799265258824349,
           "rotation": 0,
-          "target": "1-rohe"
+          "target": "2-rohe"
         },
         {
           "yaw": -0.48789718418678873,
           "pitch": 0.041061564260406413,
           "rotation": 0,
-          "target": "5-tapz-kiry"
+          "target": "7-tapz-kiry"
         },
         {
           "yaw": -0.26405440730762564,
           "pitch": 0.00917541075270556,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
+        },
+        {
+          "yaw": -2.8383568421371788,
+          "pitch": -0.026390123487574968,
+          "rotation": 0,
+          "target": "0-siv-vrch"
         }
       ],
       "infoHotspots": [
@@ -188,7 +395,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-rohe",
+      "id": "2-rohe",
       "name": "Roháče",
       "levels": [
         {
@@ -224,25 +431,31 @@ var APP_DATA = {
           "yaw": -0.3785344955832688,
           "pitch": 0.10567841932104471,
           "rotation": 0,
-          "target": "2-woowiec"
+          "target": "3-woowiec"
         },
         {
           "yaw": 0.05369745272926707,
           "pitch": 0.010793219209711324,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
         },
         {
-          "yaw": -2.729596953986002,
-          "pitch": 0.08588134935680891,
+          "yaw": -3.128608346191143,
+          "pitch": 0.06300259804692843,
           "rotation": 0,
-          "target": "0-pachoa"
+          "target": "1-pachoa"
+        },
+        {
+          "yaw": -2.9592893106626743,
+          "pitch": 0.003097818768550198,
+          "rotation": 0,
+          "target": "0-siv-vrch"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-woowiec",
+      "id": "3-woowiec",
       "name": "Wołowiec",
       "levels": [
         {
@@ -278,31 +491,31 @@ var APP_DATA = {
           "yaw": 2.8832801551029483,
           "pitch": -0.05985700602117383,
           "rotation": 0,
-          "target": "0-pachoa"
+          "target": "1-pachoa"
         },
         {
           "yaw": 0.23982024623472142,
           "pitch": -0.10642957256640173,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
         },
         {
           "yaw": -0.8236426806810453,
           "pitch": -0.0325343153590385,
           "rotation": 0,
-          "target": "5-tapz-kiry"
+          "target": "7-tapz-kiry"
         },
         {
           "yaw": -0.4187300207042206,
           "pitch": -0.03470197665344266,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         },
         {
           "yaw": 2.4783810121200043,
           "pitch": -0.09386695475169482,
           "rotation": 0,
-          "target": "1-rohe"
+          "target": "2-rohe"
         }
       ],
       "infoHotspots": [
@@ -429,7 +642,87 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "3-starorobociaski-wierch",
+      "id": "4-jarzbczy-wierch",
+      "name": "Jarząbczy Wierch",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.6181467208824287,
+          "pitch": 0.1600312693192798,
+          "rotation": 0,
+          "target": "5-starorobociaski-wierch"
+        },
+        {
+          "yaw": -2.891266719575828,
+          "pitch": 0.3566710905231645,
+          "rotation": 0,
+          "target": "3-woowiec"
+        },
+        {
+          "yaw": 3.026203324630786,
+          "pitch": 0.11109864958321403,
+          "rotation": 0,
+          "target": "2-rohe"
+        },
+        {
+          "yaw": -0.9777538044451379,
+          "pitch": 0.07652177761545076,
+          "rotation": 0,
+          "target": "7-tapz-kiry"
+        },
+        {
+          "yaw": -0.40363682438033166,
+          "pitch": 0.06873941613846846,
+          "rotation": 0,
+          "target": "9-czerwone-wierchy"
+        },
+        {
+          "yaw": -0.020808881654103217,
+          "pitch": 0.027531953821577915,
+          "rotation": 0,
+          "target": "10-vek-kopa"
+        },
+        {
+          "yaw": 0.012605705209276508,
+          "pitch": 0.0582130683716553,
+          "rotation": 0,
+          "target": "8-smreczyski-wierch"
+        },
+        {
+          "yaw": 0.11372466355516941,
+          "pitch": 0.0697103716551446,
+          "rotation": 0,
+          "target": "12-kprov-dolina"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-starorobociaski-wierch",
       "name": "Starorobociański Wierch",
       "levels": [
         {
@@ -465,49 +758,61 @@ var APP_DATA = {
           "yaw": -1.0933795976290437,
           "pitch": 0.07508681672094575,
           "rotation": 0,
-          "target": "5-tapz-kiry"
+          "target": "7-tapz-kiry"
         },
         {
           "yaw": -2.8260397651316147,
           "pitch": 0.06812696571010335,
           "rotation": 0,
-          "target": "0-pachoa"
+          "target": "1-pachoa"
         },
         {
           "yaw": -2.5750616756687066,
           "pitch": 0.19936291933953143,
           "rotation": 0,
-          "target": "2-woowiec"
+          "target": "3-woowiec"
         },
         {
           "yaw": -0.5052486801871705,
           "pitch": 0.08666418542973098,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         },
         {
           "yaw": -1.151919909471669,
           "pitch": 1.030292998632845,
           "rotation": 0,
-          "target": "4-starorobociaski-w"
+          "target": "6-starorobociaski-w"
         },
         {
           "yaw": -2.8979731174998555,
           "pitch": 0.13676783791115454,
           "rotation": 0,
-          "target": "1-rohe"
+          "target": "2-rohe"
         },
         {
           "yaw": -0.17040137711388326,
           "pitch": 0.048959453824313215,
           "rotation": 0,
-          "target": "7-winica"
+          "target": "11-winica"
         },
         {
           "yaw": 0.1454296713366361,
           "pitch": 0.07677275164300745,
           "rotation": 0,
-          "target": "8-kprov-dolina"
+          "target": "12-kprov-dolina"
+        },
+        {
+          "yaw": 0.015466029765189404,
+          "pitch": 0.024527941186203606,
+          "rotation": 0,
+          "target": "10-vek-kopa"
+        },
+        {
+          "yaw": -0.16145931350223286,
+          "pitch": 0.1152416397039353,
+          "rotation": 0,
+          "target": "8-smreczyski-wierch"
         }
       ],
       "infoHotspots": [
@@ -596,8 +901,8 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": 0.18170934566817998,
-          "pitch": 0.4699815447323843,
+          "yaw": 0.1892078110595694,
+          "pitch": 0.47012744926086647,
           "title": "Bystrá 2248",
           "text": "Text"
         },
@@ -694,7 +999,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "4-starorobociaski-w",
+      "id": "6-starorobociaski-w",
       "name": "Starorobociański W",
       "levels": [
         {
@@ -730,37 +1035,128 @@ var APP_DATA = {
           "yaw": 1.2831030781795398,
           "pitch": -1.3427230056226733,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
         },
         {
           "yaw": -1.123909048445542,
           "pitch": 0.030645233477665457,
           "rotation": 0,
-          "target": "5-tapz-kiry"
+          "target": "7-tapz-kiry"
         },
         {
           "yaw": -0.5112293965133485,
           "pitch": 0.025010027754696296,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         },
         {
           "yaw": -2.7975062137694735,
           "pitch": 0.06941813467558333,
           "rotation": 0,
-          "target": "2-woowiec"
+          "target": "3-woowiec"
         },
         {
           "yaw": -2.9991556935248553,
           "pitch": 0.056253003230306575,
           "rotation": 0,
-          "target": "1-rohe"
+          "target": "2-rohe"
+        },
+        {
+          "yaw": -0.09798312184732794,
+          "pitch": 0.0225955797114743,
+          "rotation": 0,
+          "target": "8-smreczyski-wierch"
+        },
+        {
+          "yaw": -0.1937809837420481,
+          "pitch": -0.01036247342932839,
+          "rotation": 0,
+          "target": "11-winica"
+        },
+        {
+          "yaw": -0.007498605835461802,
+          "pitch": -0.004611906550760381,
+          "rotation": 0,
+          "target": "10-vek-kopa"
+        },
+        {
+          "yaw": -3.0587374414820996,
+          "pitch": 0.01896770192713859,
+          "rotation": 0,
+          "target": "0-siv-vrch"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.7206378376363656,
+          "pitch": 0.7384789374536336,
+          "title": "Starorobociański Wierch 2176",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.5346623595264415,
+          "pitch": 0.17404944729533334,
+          "title": "Bystrá 2248",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.790537463269378,
+          "pitch": 0.05618876930931549,
+          "title": "Baranec 2184",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.9899619217980105,
+          "pitch": 0.22996322796191038,
+          "title": "Jakubiná 2194",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.2810137917403015,
+          "pitch": 0.1933107851226623,
+          "title": "Nižná Bystrá 2163",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.06293084976820928,
+          "pitch": 0.12324310554230955,
+          "title": "Kamienista 2126",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.022578801669198,
+          "pitch": 0.30899267325674984,
+          "title": "Ornak 1854",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.2993474887859744,
+          "pitch": 0.07419920561723004,
+          "title": "Osobitá 1687",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.2796426100225489,
+          "pitch": 0.13987417291612303,
+          "title": "Kominiarski Wierch 1829",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.9600826358345067,
+          "pitch": 0.1318069558258621,
+          "title": "Bobrowiec 1663",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.19562867626202696,
+          "pitch": 0.0004820880539906369,
+          "title": "Gerlachovský štít 2655",
+          "text": "Text"
+        }
+      ]
     },
     {
-      "id": "5-tapz-kiry",
+      "id": "7-tapz-kiry",
       "name": "TAPZ Kiry",
       "levels": [
         {
@@ -796,37 +1192,37 @@ var APP_DATA = {
           "yaw": 1.4915283109556903,
           "pitch": -0.061526211188294155,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
         },
         {
           "yaw": 1.992545530193298,
           "pitch": 0.004142815067307737,
           "rotation": 0,
-          "target": "2-woowiec"
+          "target": "3-woowiec"
         },
         {
           "yaw": 1.5344115926910797,
           "pitch": -0.00529931972471509,
           "rotation": 0,
-          "target": "4-starorobociaski-w"
+          "target": "6-starorobociaski-w"
         },
         {
           "yaw": 0.1845376821900988,
           "pitch": 0.026888078547290917,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         },
         {
           "yaw": 0.3041545992411798,
           "pitch": 0.004546467185630121,
           "rotation": 0,
-          "target": "8-kprov-dolina"
+          "target": "12-kprov-dolina"
         },
         {
           "yaw": -0.0969548574512622,
           "pitch": -0.0018021557990781645,
           "rotation": 0,
-          "target": "7-winica"
+          "target": "11-winica"
         }
       ],
       "infoHotspots": [
@@ -983,7 +1379,87 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "6-czerwone-wierchy",
+      "id": "8-smreczyski-wierch",
+      "name": "Smreczyński Wierch",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.033283851389231955,
+          "pitch": 0.0862650170529573,
+          "rotation": 0,
+          "target": "10-vek-kopa"
+        },
+        {
+          "yaw": 0.1767453719521921,
+          "pitch": 0.1081302465609717,
+          "rotation": 0,
+          "target": "12-kprov-dolina"
+        },
+        {
+          "yaw": -0.34480232555615764,
+          "pitch": 0.06336084491073635,
+          "rotation": 0,
+          "target": "11-winica"
+        },
+        {
+          "yaw": -0.9875384079692822,
+          "pitch": 0.18221553372720933,
+          "rotation": 0,
+          "target": "9-czerwone-wierchy"
+        },
+        {
+          "yaw": -1.7981011425298874,
+          "pitch": 0.11787309335822727,
+          "rotation": 0,
+          "target": "7-tapz-kiry"
+        },
+        {
+          "yaw": 2.8830888719200196,
+          "pitch": 0.12259162977849059,
+          "rotation": 0,
+          "target": "5-starorobociaski-wierch"
+        },
+        {
+          "yaw": 2.914856034236461,
+          "pitch": 0.22939832160782103,
+          "rotation": 0,
+          "target": "6-starorobociaski-w"
+        },
+        {
+          "yaw": -3.0825187280004656,
+          "pitch": 0.09667806162387471,
+          "rotation": 0,
+          "target": "3-woowiec"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "9-czerwone-wierchy",
       "name": "Czerwone Wierchy",
       "levels": [
         {
@@ -1019,31 +1495,37 @@ var APP_DATA = {
           "yaw": -2.6881010306125326,
           "pitch": 0.04239312066880174,
           "rotation": 0,
-          "target": "5-tapz-kiry"
+          "target": "7-tapz-kiry"
         },
         {
           "yaw": 2.261557425862744,
           "pitch": -0.05401573163340245,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
         },
         {
           "yaw": 0.41073636773289834,
           "pitch": -0.00014710278693463863,
           "rotation": 0,
-          "target": "10-hlinsk-vea"
+          "target": "14-hlinsk-vea"
         },
         {
           "yaw": 2.593008412991524,
           "pitch": 0.006398005321070599,
           "rotation": 0,
-          "target": "2-woowiec"
+          "target": "3-woowiec"
         },
         {
           "yaw": -0.041807557189201816,
           "pitch": -0.025689583411100614,
           "rotation": 0,
-          "target": "7-winica"
+          "target": "11-winica"
+        },
+        {
+          "yaw": 0.5763726571098537,
+          "pitch": -0.003610684283643195,
+          "rotation": 0,
+          "target": "10-vek-kopa"
         }
       ],
       "infoHotspots": [
@@ -1182,7 +1664,81 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "7-winica",
+      "id": "10-vek-kopa",
+      "name": "Veľká kopa",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.158206634966266,
+        "pitch": 0.5838997645296864,
+        "fov": 1.3809852499758133
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.9674956823388072,
+          "pitch": 0.11079976457323859,
+          "rotation": 0,
+          "target": "11-winica"
+        },
+        {
+          "yaw": -0.06790603990625144,
+          "pitch": 0.10115967979061047,
+          "rotation": 0,
+          "target": "15-morskie-oko"
+        },
+        {
+          "yaw": 0.2562566565128712,
+          "pitch": 0.12033534149172276,
+          "rotation": 0,
+          "target": "13-kprovsk-tt"
+        },
+        {
+          "yaw": 0.46284430318920045,
+          "pitch": 0.1288888295091546,
+          "rotation": 0,
+          "target": "14-hlinsk-vea"
+        },
+        {
+          "yaw": 1.1699341976457927,
+          "pitch": 0.35714601798413703,
+          "rotation": 0,
+          "target": "12-kprov-dolina"
+        },
+        {
+          "yaw": -2.325071963663362,
+          "pitch": 0.14848117746008427,
+          "rotation": 0,
+          "target": "9-czerwone-wierchy"
+        },
+        {
+          "yaw": 3.054955288964213,
+          "pitch": 0.07240144569062146,
+          "rotation": 0,
+          "target": "5-starorobociaski-wierch"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "11-winica",
       "name": "Świnica",
       "levels": [
         {
@@ -1214,49 +1770,55 @@ var APP_DATA = {
           "yaw": 0.6000093185411917,
           "pitch": 0.11340352146571853,
           "rotation": 0,
-          "target": "10-hlinsk-vea"
+          "target": "14-hlinsk-vea"
         },
         {
           "yaw": 1.4303175471987402,
           "pitch": 0.17200927294510926,
           "rotation": 0,
-          "target": "8-kprov-dolina"
+          "target": "12-kprov-dolina"
         },
         {
           "yaw": 0.5208370770536952,
           "pitch": 0.12768422767543086,
           "rotation": 0,
-          "target": "9-kprovsk-tt"
+          "target": "13-kprovsk-tt"
         },
         {
           "yaw": -0.028384632586879732,
           "pitch": 0.10173977454737226,
           "rotation": 0,
-          "target": "13-hrub-vea"
+          "target": "18-hrub-vea"
         },
         {
           "yaw": 0.24799247326644824,
           "pitch": 0.030842650705503516,
           "rotation": 0,
-          "target": "12-batizovsk-dolina"
+          "target": "17-batizovsk-dolina"
         },
         {
           "yaw": 2.836356297794989,
           "pitch": 0.12047566596450032,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         },
         {
           "yaw": 2.4273816425475303,
           "pitch": 0.03857195523407242,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
         },
         {
           "yaw": 3.1188984914390696,
           "pitch": 0.11349316444640323,
           "rotation": 0,
-          "target": "5-tapz-kiry"
+          "target": "7-tapz-kiry"
+        },
+        {
+          "yaw": 1.8342109681363965,
+          "pitch": 0.07878269022490869,
+          "rotation": 0,
+          "target": "10-vek-kopa"
         }
       ],
       "infoHotspots": [
@@ -1375,8 +1937,8 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": 3.1369869265705557,
-          "pitch": 0.20294843233192772,
+          "yaw": 3.1341176544930285,
+          "pitch": 0.2029316955096192,
           "title": "Giewont 1894",
           "text": "Text"
         },
@@ -1403,11 +1965,23 @@ var APP_DATA = {
           "pitch": 0.4745097509119347,
           "title": "Pańszczyca glacier",
           "text": "Text"
+        },
+        {
+          "yaw": -1.945734255228988,
+          "pitch": 0.35000312686628376,
+          "title": "Wielki Kopieniec 1328",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.8371420167096417,
+          "pitch": 0.42891559546393765,
+          "title": "Bystrej glacier",
+          "text": "Text"
         }
       ]
     },
     {
-      "id": "8-kprov-dolina",
+      "id": "12-kprov-dolina",
       "name": "Kôprová dolina",
       "levels": [
         {
@@ -1443,31 +2017,37 @@ var APP_DATA = {
           "yaw": -0.08200035755560009,
           "pitch": 0.05225986387939052,
           "rotation": 0,
-          "target": "10-hlinsk-vea"
+          "target": "14-hlinsk-vea"
         },
         {
           "yaw": -0.34747043821771584,
           "pitch": 0.05180642059181473,
           "rotation": 0,
-          "target": "9-kprovsk-tt"
+          "target": "13-kprovsk-tt"
         },
         {
-          "yaw": -1.544325320019416,
-          "pitch": 0.03925189726944467,
+          "yaw": -1.5438723841191475,
+          "pitch": -0.007409672268856582,
           "rotation": 0,
-          "target": "7-winica"
+          "target": "11-winica"
         },
         {
           "yaw": -2.5542118647549685,
           "pitch": 0.02341603231536915,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         },
         {
           "yaw": 2.8629450531621536,
           "pitch": 0.0119910879434304,
           "rotation": 0,
-          "target": "3-starorobociaski-wierch"
+          "target": "5-starorobociaski-wierch"
+        },
+        {
+          "yaw": -2.2590367161338065,
+          "pitch": -0.08790542273107249,
+          "rotation": 0,
+          "target": "10-vek-kopa"
         }
       ],
       "infoHotspots": [
@@ -1594,7 +2174,7 @@ var APP_DATA = {
         {
           "yaw": -0.9883900524898586,
           "pitch": 0.16587199640388306,
-          "title": "Pięć Stawów Polskich glacier",
+          "title": "Pięć Stawów Polskich cirque field",
           "text": "Text"
         },
         {
@@ -1602,11 +2182,35 @@ var APP_DATA = {
           "pitch": 0.07366846736077903,
           "title": "Kozi Wierch 2291",
           "text": "Text"
+        },
+        {
+          "yaw": -2.25851072965267,
+          "pitch": 0.2540926592968322,
+          "title": "<h2>Veľká kopa&nbsp;2052</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.872377080854079,
+          "pitch": 0.19391390548027054,
+          "title": "Hlina glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.13116294665501,
+          "pitch": 0.17543598297372398,
+          "title": "Belá river",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.04864039248447227,
+          "pitch": 0.2776617495652509,
+          "title": "<h2>Hrubá kopa 2221</h2>",
+          "text": "Text"
         }
       ]
     },
     {
-      "id": "9-kprovsk-tt",
+      "id": "13-kprovsk-tt",
       "name": "Kôprovský štít",
       "levels": [
         {
@@ -1638,43 +2242,49 @@ var APP_DATA = {
           "yaw": -1.3720895244790992,
           "pitch": 0.0513850423873361,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         },
         {
           "yaw": 1.463315782486169,
           "pitch": 0.0362231202702219,
           "rotation": 0,
-          "target": "15-slavkovsk-tt"
+          "target": "20-slavkovsk-tt"
         },
         {
           "yaw": 2.491072166591394,
           "pitch": 0.3100818236175584,
           "rotation": 0,
-          "target": "10-hlinsk-vea"
+          "target": "14-hlinsk-vea"
         },
         {
           "yaw": 1.69302160383804,
           "pitch": 0.07155543288175181,
           "rotation": 0,
-          "target": "11-kostolk"
+          "target": "16-kostolk"
         },
         {
           "yaw": 1.2215466784474955,
           "pitch": 0.1593384596750731,
           "rotation": 0,
-          "target": "13-hrub-vea"
+          "target": "18-hrub-vea"
         },
         {
           "yaw": -1.9851294914259814,
           "pitch": 0.1616940140203944,
           "rotation": 0,
-          "target": "8-kprov-dolina"
+          "target": "12-kprov-dolina"
         },
         {
-          "yaw": -0.9122418743088883,
-          "pitch": 0.09456752885624375,
+          "yaw": -0.9129891946232647,
+          "pitch": 0.04755135148668188,
           "rotation": 0,
-          "target": "7-winica"
+          "target": "11-winica"
+        },
+        {
+          "yaw": -1.6416205361556901,
+          "pitch": 0.08545193434419573,
+          "rotation": 0,
+          "target": "10-vek-kopa"
         }
       ],
       "infoHotspots": [
@@ -1855,7 +2465,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "10-hlinsk-vea",
+      "id": "14-hlinsk-vea",
       "name": "Hlinská veža",
       "levels": [
         {
@@ -1891,37 +2501,37 @@ var APP_DATA = {
           "yaw": -1.7837220442207897,
           "pitch": 0.12650041163089298,
           "rotation": 0,
-          "target": "13-hrub-vea"
+          "target": "18-hrub-vea"
         },
         {
           "yaw": -1.3519249830563176,
           "pitch": 0.04594872253460558,
           "rotation": 0,
-          "target": "11-kostolk"
+          "target": "16-kostolk"
         },
         {
           "yaw": 3.027117148448337,
           "pitch": 0.15646790647791775,
           "rotation": 0,
-          "target": "9-kprovsk-tt"
+          "target": "13-kprovsk-tt"
         },
         {
           "yaw": 1.9583689399103488,
           "pitch": 0.0502913693250413,
           "rotation": 0,
-          "target": "8-kprov-dolina"
+          "target": "12-kprov-dolina"
         },
         {
-          "yaw": 2.6062187000621044,
-          "pitch": 0.03436696417109175,
+          "yaw": 2.6713557022921677,
+          "pitch": -0.03373225917711231,
           "rotation": 0,
-          "target": "7-winica"
+          "target": "11-winica"
         },
         {
           "yaw": 2.1869899775782606,
           "pitch": 0.017917151509070806,
           "rotation": 0,
-          "target": "6-czerwone-wierchy"
+          "target": "9-czerwone-wierchy"
         }
       ],
       "infoHotspots": [
@@ -2024,7 +2634,352 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "11-kostolk",
+      "id": "15-morskie-oko",
+      "name": "Morskie Oko",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 1.9100236622167408,
+        "pitch": 0.6974697163084471,
+        "fov": 1.3873768411757634
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.15028012190753515,
+          "pitch": 0.2218680155767565,
+          "rotation": 0,
+          "target": "18-hrub-vea"
+        },
+        {
+          "yaw": 0.6858148312021353,
+          "pitch": 0.09535143524007239,
+          "rotation": 0,
+          "target": "17-batizovsk-dolina"
+        },
+        {
+          "yaw": 0.31534343021856515,
+          "pitch": 0.061297769258150225,
+          "rotation": 0,
+          "target": "20-slavkovsk-tt"
+        },
+        {
+          "yaw": 2.8249080460671863,
+          "pitch": 0.13909640538097712,
+          "rotation": 0,
+          "target": "12-kprov-dolina"
+        },
+        {
+          "yaw": 1.8873863184896225,
+          "pitch": 0.3141550915314326,
+          "rotation": 0,
+          "target": "14-hlinsk-vea"
+        },
+        {
+          "yaw": 2.256743942857545,
+          "pitch": 0.5107076994836568,
+          "rotation": 0,
+          "target": "13-kprovsk-tt"
+        },
+        {
+          "yaw": -2.5544040787178766,
+          "pitch": 0.15224763686416942,
+          "rotation": 0,
+          "target": "11-winica"
+        },
+        {
+          "yaw": -2.7499687712955865,
+          "pitch": 0.08301251356113681,
+          "rotation": 0,
+          "target": "9-czerwone-wierchy"
+        },
+        {
+          "yaw": -0.009699832403933684,
+          "pitch": 0.047057379215615924,
+          "rotation": 0,
+          "target": "21-lomnick-tt"
+        },
+        {
+          "yaw": -3.1022785772040855,
+          "pitch": 0.08751052482358901,
+          "rotation": 0,
+          "target": "10-vek-kopa"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -2.4109384575588173,
+          "pitch": 0.2542527072231575,
+          "title": "Kozi Wierch 2291",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.606953373662641,
+          "pitch": 0.19316634718254555,
+          "title": "Świnica 2301",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.8597572408280296,
+          "pitch": 0.6861069503808466,
+          "title": "Opalony Wierch 2115",
+          "text": "Text"
+        },
+        {
+          "yaw": -3.0951783759014972,
+          "pitch": 0.5466007464070621,
+          "title": "Szpiglasowy Wierch 2172",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.7041463181527376,
+          "pitch": 0.649327558447439,
+          "title": "Miedziane 2233",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.4228246811575582,
+          "pitch": 0.1166697452347556,
+          "title": "Kriváň 2494",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.287978526538578,
+          "pitch": 0.20522783493454,
+          "title": "Hrubý vrch 2428",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.3155483797853602,
+          "pitch": 0.19279188563841387,
+          "title": "Široká 2210",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.17368665110805,
+          "pitch": 0.42666869824376974,
+          "title": "Kôprovský štít 2363",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.7544439136376937,
+          "pitch": 0.21565472613540138,
+          "title": "Satán 2422",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.7996084043528882,
+          "pitch": 0.6674413502695025,
+          "title": "Mięguszowiecki Szczyt Wielki 2438",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.5930627269608113,
+          "pitch": 0.5852210286511372,
+          "title": "Mięguszowiecki Szczyt Czarny 2410",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.754773797906747,
+          "pitch": 0.28788634398809343,
+          "title": "Rysy 2503",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.048319845830100405,
+          "pitch": 0.3677245444312689,
+          "title": "Mlynár 2170",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.8985254715764448,
+          "pitch": 0.28108479693065647,
+          "title": "Wołoszyn 2155",
+          "text": "Text"
+        },
+        {
+          "yaw": -3.106059277243183,
+          "pitch": 0.16542374904387458,
+          "title": "<h2>Veľká kopa 2052</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.5529330892790583,
+          "pitch": 0.9740591453963177,
+          "title": "Mnich 2068",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.40851894991424587,
+          "pitch": 0.4549682262651338,
+          "title": "Żabi Szczyt Wyżni 2263",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.1295452158946482,
+          "pitch": 0.4139547335308347,
+          "title": "<h1>Roztocka Czuba 1425</h1>",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.3302629183619228,
+          "pitch": 0.22995301192724504,
+          "title": "Rusinowa Polana",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.0937561584267463,
+          "pitch": 0.04887093902775419,
+          "title": "Lubań 1211",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.5927451772286059,
+          "pitch": 0.10360231527220165,
+          "title": "Havran 2152",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.179535019238525,
+          "pitch": 0.32665973317785557,
+          "title": "Białka glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.0038190850670734,
+          "pitch": 0.8561907116942375,
+          "title": "Rybi Potok glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.527981532643114,
+          "pitch": 0.46432396555514543,
+          "title": "Roztoka glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.6501916544132147,
+          "pitch": 0.4683904107632735,
+          "title": "Pięć Stawów Polskich cirque field",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.3694720960197166,
+          "pitch": 0.2813587197520526,
+          "title": "Mengusovský glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.9122399987752043,
+          "pitch": 0.2883443565697803,
+          "title": "Kôprovský glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.8532278915761005,
+          "pitch": 0.19871534330636464,
+          "title": "Tichý glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.6169417925611906,
+          "pitch": 0.21356091643878372,
+          "title": "Javorový glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.25067074027094804,
+          "pitch": 0.415768948632218,
+          "title": "Bielovodský glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.27435544483451224,
+          "pitch": 0.23392636495513486,
+          "title": "Hrubá veža 2083",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.08064677043729951,
+          "pitch": 0.06232073844114083,
+          "title": "<h2>Ľadový štít 2628</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.3628987102578023,
+          "pitch": 0.017604041642780288,
+          "title": "Biabia Góra 1725",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.6261434116335955,
+          "pitch": 0.3516427383790841,
+          "title": "Niżne Rysy 2430",
+          "text": "Text"
+        },
+        {
+          "yaw": 3.0463764807472824,
+          "pitch": 0.04635601461818695,
+          "title": "Bystrá 2248",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.44936871759935215,
+          "pitch": 1.3156155620130434,
+          "title": "Morskie Oko will be hire",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.1486951888922405,
+          "pitch": 0.3587446703378028,
+          "title": "Buczynowa cirque field",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.5606954342827795,
+          "pitch": 0.09671427133943844,
+          "title": "Gerlachovský štít 2655",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.932526017328712,
+          "pitch": 0.21183761493373154,
+          "title": "Sucha Woda glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.8238911304835348,
+          "pitch": 0.20015821276609458,
+          "title": "<h2>Vysoká 2559</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.786102924541818,
+          "pitch": 0.6909837166467234,
+          "title": "<h1>Wrota Chałubińskiego 2022&nbsp;</h1>",
+          "text": "Text"
+        }
+      ]
+    },
+    {
+      "id": "16-kostolk",
       "name": "Kostolík",
       "levels": [
         {
@@ -2060,31 +3015,31 @@ var APP_DATA = {
           "yaw": 0.2340694405798267,
           "pitch": 0.2258162079344075,
           "rotation": 0,
-          "target": "13-hrub-vea"
+          "target": "18-hrub-vea"
         },
         {
           "yaw": 1.4961686707539137,
           "pitch": 0.05247064955710634,
           "rotation": 0,
-          "target": "15-slavkovsk-tt"
+          "target": "20-slavkovsk-tt"
         },
         {
           "yaw": 0.633281730494117,
           "pitch": 0.14469929750989152,
           "rotation": 0,
-          "target": "14-sviov-tt"
+          "target": "19-sviov-tt"
         },
         {
           "yaw": -1.2667332119887806,
           "pitch": 0.05524336100990368,
           "rotation": 0,
-          "target": "10-hlinsk-vea"
+          "target": "14-hlinsk-vea"
         },
         {
           "yaw": 2.642260041534043,
           "pitch": -0.90663380004594,
           "rotation": 0,
-          "target": "12-batizovsk-dolina"
+          "target": "17-batizovsk-dolina"
         }
       ],
       "infoHotspots": [
@@ -2193,7 +3148,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "12-batizovsk-dolina",
+      "id": "17-batizovsk-dolina",
       "name": "Batizovská dolina",
       "levels": [
         {
@@ -2229,31 +3184,31 @@ var APP_DATA = {
           "yaw": -0.07290717211719766,
           "pitch": 1.0181964253996991,
           "rotation": 0,
-          "target": "11-kostolk"
+          "target": "16-kostolk"
         },
         {
           "yaw": -0.8509614809185955,
           "pitch": 0.005937065544944886,
           "rotation": 0,
-          "target": "7-winica"
+          "target": "11-winica"
         },
         {
           "yaw": -1.1914698961302506,
           "pitch": 0.07035172509179155,
           "rotation": 0,
-          "target": "10-hlinsk-vea"
+          "target": "14-hlinsk-vea"
         },
         {
           "yaw": 0.24785031531964208,
           "pitch": 0.20484001223955595,
           "rotation": 0,
-          "target": "13-hrub-vea"
+          "target": "18-hrub-vea"
         },
         {
           "yaw": 1.3737640316463597,
           "pitch": 0.062009480836309194,
           "rotation": 0,
-          "target": "15-slavkovsk-tt"
+          "target": "20-slavkovsk-tt"
         }
       ],
       "infoHotspots": [
@@ -2344,7 +3299,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "13-hrub-vea",
+      "id": "18-hrub-vea",
       "name": "Hrubá veža",
       "levels": [
         {
@@ -2380,25 +3335,31 @@ var APP_DATA = {
           "yaw": -2.8685291128198465,
           "pitch": -0.05914500974004078,
           "rotation": 0,
-          "target": "15-slavkovsk-tt"
+          "target": "20-slavkovsk-tt"
         },
         {
           "yaw": -2.4111245348413206,
           "pitch": -0.19446450986873387,
           "rotation": 0,
-          "target": "14-sviov-tt"
+          "target": "19-sviov-tt"
         },
         {
           "yaw": -1.454417943064641,
           "pitch": -0.058232756991458245,
           "rotation": 0,
-          "target": "11-kostolk"
+          "target": "16-kostolk"
         },
         {
           "yaw": -0.22396941603612852,
           "pitch": -0.04234868376562595,
           "rotation": 0,
-          "target": "9-kprovsk-tt"
+          "target": "13-kprovsk-tt"
+        },
+        {
+          "yaw": 0.20324891443970117,
+          "pitch": -0.043021833756426986,
+          "rotation": 0,
+          "target": "11-winica"
         }
       ],
       "infoHotspots": [
@@ -2433,8 +3394,8 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": 0.16529944417877118,
-          "pitch": 0.0038159816777234568,
+          "yaw": 0.16343287937132445,
+          "pitch": 0.0038158958912450913,
           "title": "Świnica 2301",
           "text": "Text"
         },
@@ -2537,7 +3498,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "14-sviov-tt",
+      "id": "19-sviov-tt",
       "name": "Svišťový štít",
       "levels": [
         {
@@ -2573,13 +3534,13 @@ var APP_DATA = {
           "yaw": 0.37564246294948056,
           "pitch": 0.03428003340776087,
           "rotation": 0,
-          "target": "15-slavkovsk-tt"
+          "target": "20-slavkovsk-tt"
         },
         {
           "yaw": -2.1307409352748046,
           "pitch": 0.37523682003215875,
           "rotation": 0,
-          "target": "13-hrub-vea"
+          "target": "18-hrub-vea"
         }
       ],
       "infoHotspots": [
@@ -2724,7 +3685,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "15-slavkovsk-tt",
+      "id": "20-slavkovsk-tt",
       "name": "Slavkovský štít",
       "levels": [
         {
@@ -2760,31 +3721,43 @@ var APP_DATA = {
           "yaw": -0.5136881376540128,
           "pitch": 0.1787908548056265,
           "rotation": 0,
-          "target": "13-hrub-vea"
+          "target": "18-hrub-vea"
         },
         {
           "yaw": -0.5735273564833392,
           "pitch": 0.15596370087775036,
           "rotation": 0,
-          "target": "14-sviov-tt"
+          "target": "19-sviov-tt"
         },
         {
           "yaw": -0.9083586481546106,
           "pitch": 0.08665306984602594,
           "rotation": 0,
-          "target": "10-hlinsk-vea"
+          "target": "14-hlinsk-vea"
         },
         {
           "yaw": -1.071349194320165,
           "pitch": 0.10648154760378148,
           "rotation": 0,
-          "target": "11-kostolk"
+          "target": "16-kostolk"
         },
         {
           "yaw": -1.1342317515171132,
           "pitch": 0.06091234720479477,
           "rotation": 0,
-          "target": "12-batizovsk-dolina"
+          "target": "17-batizovsk-dolina"
+        },
+        {
+          "yaw": 0.9636170165953128,
+          "pitch": 0.12207625886634688,
+          "rotation": 0,
+          "target": "21-lomnick-tt"
+        },
+        {
+          "yaw": -0.6451864843027355,
+          "pitch": 0.088114383683779,
+          "rotation": 0,
+          "target": "15-morskie-oko"
         }
       ],
       "infoHotspots": [
@@ -2845,7 +3818,7 @@ var APP_DATA = {
         {
           "yaw": 1.3937812909643768,
           "pitch": 0.24359388093951573,
-          "title": "<h2>Kežmarskej Bielej vody Glacier</h2>",
+          "title": "Kežmarský glacier",
           "text": "Text"
         },
         {
@@ -2888,6 +3861,255 @@ var APP_DATA = {
           "yaw": 2.1654894588230285,
           "pitch": 0.48114319254501936,
           "title": "Veľkostudený piedmont glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.015907227437749,
+          "pitch": 0.41386383724371356,
+          "title": "Malostudený glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.9447332483824313,
+          "pitch": 0.5537833228764732,
+          "title": "STARÝ SMOKOVEC",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.0413687231438793,
+          "pitch": 0.3474744446390865,
+          "title": "TATRANSKÁ LOMNICA",
+          "text": "Text"
+        }
+      ]
+    },
+    {
+      "id": "21-lomnick-tt",
+      "name": "Lomnický štít",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.3493078288766043,
+        "pitch": 0.5464312264296343,
+        "fov": 1.1339288156406657
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.9508965433119867,
+          "pitch": 0.17376857342694763,
+          "rotation": 0,
+          "target": "20-slavkovsk-tt"
+        },
+        {
+          "yaw": 2.806678258520024,
+          "pitch": 0.14495896824590204,
+          "rotation": 0,
+          "target": "19-sviov-tt"
+        },
+        {
+          "yaw": 2.9896463552371806,
+          "pitch": 0.18046708660656208,
+          "rotation": 0,
+          "target": "18-hrub-vea"
+        },
+        {
+          "yaw": 2.6188529189376917,
+          "pitch": 0.07416331423766742,
+          "rotation": 0,
+          "target": "17-batizovsk-dolina"
+        },
+        {
+          "yaw": 3.1369772837531187,
+          "pitch": 0.09044588060045022,
+          "rotation": 0,
+          "target": "15-morskie-oko"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -2.818696722255824,
+          "pitch": 0.18457372224731827,
+          "title": "Široká 2210",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.8878081744913056,
+          "pitch": 0.04384492559164066,
+          "title": "Kriváň 2494",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.9475807216398895,
+          "pitch": 0.08277524645477996,
+          "title": "Rysy 2503",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.7349736888768348,
+          "pitch": 0.17414014839090441,
+          "title": "Havran 2152",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.6363636363822032,
+          "pitch": 0.18775402838986466,
+          "title": "Plačlivé 2125",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.2011513130931633,
+          "pitch": 0.29632190350372944,
+          "title": "Javorový glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.216195552004905,
+          "pitch": 0.48352676884845813,
+          "title": "Baranie rohy 2526",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.0695339849742007,
+          "pitch": 0.2503156856085056,
+          "title": "Slavkovský štít 2452",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.482891459603165,
+          "pitch": 0.6129609690227547,
+          "title": "Prostredný hrot 2441",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.617630035933372,
+          "pitch": 0.7704758389262807,
+          "title": "Pyšný štít 2623",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.9666435900994124,
+          "pitch": 0.27576615205908084,
+          "title": "Javorový štít 2476",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.779899806322579,
+          "pitch": 0.31847720686366543,
+          "title": "Ladový štít 2628",
+          "text": "Text"
+        },
+        {
+          "yaw": 3.0151509787283803,
+          "pitch": 0.42404257329137707,
+          "title": "Ostrý štít 2361",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.9843920028907966,
+          "pitch": 0.8881390175942343,
+          "title": "Lomnický štít 2634",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.864964202144801,
+          "pitch": 0.5388370598474523,
+          "title": "Kežmarský štít 2556",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.5604058602514215,
+          "pitch": 0.569568786301172,
+          "title": "<h2>Huncovský štít&nbsp;</h2><h1>2359</h1>",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.9101616189583694,
+          "pitch": 0.3691142903292093,
+          "title": "<h2>Čierny štít 2429</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.6186083044619117,
+          "pitch": 0.328724578425982,
+          "title": "<h2>Jahňací štít 2229</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.8584372190526839,
+          "pitch": 0.22597825484630718,
+          "title": "<h2>Bujačí vrch&nbsp;1947</h2>",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.6812061029086642,
+          "pitch": 0.045131898153099925,
+          "title": "Turbacz 1310",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.596643086883045,
+          "pitch": 0.18987418808170275,
+          "title": "Białka glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.5101338940323981,
+          "pitch": 0.405708840277633,
+          "title": "TATRANSKÁ LOMNICA",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.3232254499472091,
+          "pitch": 0.35400936816284556,
+          "title": "STARÝ SMOKOVEC",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.1735321467095545,
+          "pitch": 0.772334332161746,
+          "title": "Malostudený glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.8132456558792782,
+          "pitch": 0.46910509094170116,
+          "title": "Veľkostudený piedmont glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.4754256259051335,
+          "pitch": 0.43275861083130707,
+          "title": "Kežmarský glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.16456497830989392,
+          "pitch": 0.726992944106108,
+          "title": "Skalnatý glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.6485842699379694,
+          "pitch": 0.46516908851022976,
+          "title": "Strelecká veža 2130",
           "text": "Text"
         }
       ]
