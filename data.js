@@ -1498,8 +1498,8 @@ var APP_DATA = {
           "target": "7-tapz-kiry"
         },
         {
-          "yaw": 1.678,
-          "pitch": 0.03,
+          "yaw": 2.345134,
+          "pitch": 0.052762,
           "rotation": 0,
           "target": "8-smreczyski-wierch"
         },
@@ -1528,10 +1528,16 @@ var APP_DATA = {
           "target": "11-winica"
         },
         {
-          "yaw": 0.5763726571098537,
-          "pitch": -0.003610684283643195,
+          "yaw": 0.580295,
+          "pitch": -0.038970,
           "rotation": 0,
           "target": "10-vek-kopa"
+        },
+        {
+          "yaw": 2.364562,
+          "pitch": 0.144602,
+          "rotation": 0,
+          "target": "1-ciemniak"
         }
       ],
       "infoHotspots": [
@@ -1739,6 +1745,30 @@ var APP_DATA = {
           "pitch": 0.07240144569062146,
           "rotation": 0,
           "target": "5-starorobociaski-wierch"
+        },
+        {
+          "yaw": -2.983557,
+          "pitch": 0.077034,
+          "rotation": 0,
+          "target": "8-smreczyski-wierch"
+        },
+        {
+          "yaw": -2.616570,
+          "pitch": 0.058683,
+          "rotation": 0,
+          "target": "1-ciemniak"
+        },
+        {
+          "yaw": -0.628850,
+          "pitch": 0.102240,
+          "rotation": 0,
+          "target": "6-krzyne"
+        },
+        {
+          "yaw": -0.504452,
+          "pitch": 0.064175,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
         }
       ],
       "infoHotspots": []
@@ -3120,10 +3150,22 @@ var APP_DATA = {
           "target": "14-hlinsk-vea"
         },
         {
-          "yaw": 2.642260041534043,
-          "pitch": -0.90663380004594,
+          "yaw": 2.681852,
+          "pitch": -0.451676,
           "rotation": 0,
           "target": "17-batizovsk-dolina"
+        },
+        {
+          "yaw": -0.221525,
+          "pitch": 0.038752,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
+        },
+        {
+          "yaw": -0.556533,
+          "pitch": 0.026775,
+          "rotation": 0,
+          "target": "6-krzyne"
         }
       ],
       "infoHotspots": [
@@ -3146,8 +3188,8 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": 1.0525208860267963,
-          "pitch": 0.029173869471071256,
+          "yaw": 1.023434,
+          "pitch": -0.000526,
           "title": "Lomnický štít 2634",
           "text": "Text"
         },
@@ -3271,8 +3313,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.07290717211719766,
-          "pitch": 1.0181964253996991,
+          "yaw": -0.097671,
+          "pitch": 0.482996,
           "rotation": 0,
           "target": "16-kostolk"
         },
@@ -3703,6 +3745,24 @@ var APP_DATA = {
           "pitch": -0.015842,
           "rotation": 0,
           "target": "21-lomnick-tt"
+        },
+        {
+          "yaw": -2.088175,
+          "pitch": 0.033943,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
+        },
+        {
+          "yaw": -2.437268,
+          "pitch": 0.007002,
+          "rotation": 0,
+          "target": "6-krzyne"
+        },
+        {
+          "yaw": 2.105088,
+          "pitch": 0.003651,
+          "rotation": 0,
+          "target": "16-kostolk"
         }
       ],
       "infoHotspots": [
@@ -4115,6 +4175,18 @@ var APP_DATA = {
           "pitch": 0.09044588060045022,
           "rotation": 0,
           "target": "15-morskie-oko"
+        },
+        {
+          "yaw": -0.482778,
+          "pitch": 0.215629,
+          "rotation": 0,
+          "target": "2-huncovsk-tt"
+        },
+        {
+          "yaw": -2.602709,
+          "pitch": 0.103887,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
         }
       ],
       "infoHotspots": [
@@ -4373,49 +4445,49 @@ var APP_DATA = {
           "yaw": -2.226031537074011,
           "pitch": 0.003026688866171412,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "5-starorobociaski-wierch"
         },
         {
           "yaw": -0.45829343616058793,
           "pitch": -0.025075385647010506,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "7-tapz-kiry"
         },
         {
           "yaw": -2.7934592423923466,
           "pitch": 0.02898326595419931,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "8-smreczyski-wierch"
         },
         {
-          "yaw": 2.2390371124922117,
-          "pitch": -0.07253296358755179,
+          "yaw": 2.220224,
+          "pitch": 0.019716,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "10-vek-kopa"
         },
         {
-          "yaw": 1.4781332980058313,
-          "pitch": 0.12231960955820398,
+          "yaw": 1.467264,
+          "pitch": 0.177365,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "9-czerwone-wierchy"
         },
         {
-          "yaw": 1.7413622228016177,
-          "pitch": -0.02049941991664994,
+          "yaw": 1.733603,
+          "pitch": -0.087951,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "11-winica"
         },
         {
-          "yaw": 2.294917040950793,
-          "pitch": -0.0013468447756572743,
+          "yaw": 2.293043,
+          "pitch": 0.066550,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "12-kprov-dolina"
         },
         {
           "yaw": -1.7600320742570084,
           "pitch": 0.031394524933404,
           "rotation": 0,
-          "target": "0-ornak"
+          "target": "3-woowiec"
         }
       ],
       "infoHotspots": [
