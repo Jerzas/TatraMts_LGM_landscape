@@ -773,8 +773,8 @@ var APP_DATA = {
           "target": "3-woowiec"
         },
         {
-          "yaw": -0.5052486801871705,
-          "pitch": 0.08666418542973098,
+          "yaw": -0.472962,
+          "pitch": 0.085704,
           "rotation": 0,
           "target": "9-czerwone-wierchy"
         },
@@ -813,6 +813,12 @@ var APP_DATA = {
           "pitch": 0.1152416397039353,
           "rotation": 0,
           "target": "8-smreczyski-wierch"
+        },
+        {
+          "yaw": -0.561958,
+          "pitch": 0.103065,
+          "rotation": 0,
+          "target": "1-ciemniak"
         }
       ],
       "infoHotspots": [
@@ -1498,8 +1504,8 @@ var APP_DATA = {
           "target": "7-tapz-kiry"
         },
         {
-          "yaw": 2.345134,
-          "pitch": 0.052762,
+            "yaw": 1.734219,
+            "pitch": 0.013288,
           "rotation": 0,
           "target": "8-smreczyski-wierch"
         },
@@ -1538,6 +1544,12 @@ var APP_DATA = {
           "pitch": 0.144602,
           "rotation": 0,
           "target": "1-ciemniak"
+          },
+          {
+            "yaw": 2.324814,
+            "pitch": 0.051602,
+            "rotation": 0,
+            "target": "0-ornak"
         }
       ],
       "infoHotspots": [
@@ -2086,14 +2098,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.08200035755560009,
-          "pitch": 0.05225986387939052,
+          "yaw": -0.079148,
+          "pitch": 0.001347,
           "rotation": 0,
           "target": "14-hlinsk-vea"
         },
         {
-          "yaw": -0.34747043821771584,
-          "pitch": 0.05180642059181473,
+          "yaw": -0.360439,
+          "pitch": -0.042005,
           "rotation": 0,
           "target": "13-kprovsk-tt"
         },
@@ -2126,6 +2138,30 @@ var APP_DATA = {
           "pitch": -0.037,
           "rotation": 0,
           "target": "15-morskie-oko"
+        },
+        {
+          "yaw": -2.727536,
+          "pitch": 0.000461,
+          "rotation": 0,
+          "target": "1-ciemniak"
+        },
+        {
+          "yaw": 3.085772,
+          "pitch": -0.012973,
+          "rotation": 0,
+          "target": "8-smreczyski-wierch"
+        },
+        {
+          "yaw": -1.150051,
+          "pitch": -0.015390,
+          "rotation": 0,
+          "target": "6-krzyne"
+        },
+        {
+          "yaw": -0.953007,
+          "pitch": -0.004341,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
         }
       ],
       "infoHotspots": [
