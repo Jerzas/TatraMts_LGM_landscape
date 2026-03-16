@@ -1831,6 +1831,18 @@ var APP_DATA = {
           "pitch": 0.111,
           "rotation": 0,
           "target": "15-morskie-oko"
+        },
+        {
+          "yaw": -0.628689,
+          "pitch": 0.180351,
+          "rotation": 0,
+          "target": "6-krzyne"
+        },
+        {
+          "yaw": -0.557948,
+          "pitch": 0.081776,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
         }
       ],
       "infoHotspots": [
@@ -1988,6 +2000,24 @@ var APP_DATA = {
           "yaw": -2.8371420167096417,
           "pitch": 0.42891559546393765,
           "title": "Bystrej glacier",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.703688,
+          "pitch": 0.262704,
+          "title": "Toporowa Cyrhla",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.159121,
+          "pitch": 0.399709,
+          "title": "Olczyska Valley",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.396210,
+          "pitch": 0.359503,
+          "title": "Kuźnice",
           "text": "Text"
         }
       ]
@@ -2741,8 +2771,8 @@ var APP_DATA = {
           "target": "13-kprovsk-tt"
         },
         {
-          "yaw": -2.5544040787178766,
-          "pitch": 0.15224763686416942,
+          "yaw": -2.563216,
+          "pitch": 0.039224,
           "rotation": 0,
           "target": "11-winica"
         },
@@ -2759,10 +2789,22 @@ var APP_DATA = {
           "target": "21-lomnick-tt"
         },
         {
-          "yaw": -3.1022785772040855,
-          "pitch": 0.08751052482358901,
+          "yaw": -3.103131,
+          "pitch": 0.009016,
           "rotation": 0,
           "target": "10-vek-kopa"
+        },
+        {
+          "yaw": -1.040360,
+          "pitch": 0.030776,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
+        },
+        {
+          "yaw": -1.848832,
+          "pitch": 0.057049,
+          "rotation": 0,
+          "target": "6-krzyne"
         }
       ],
       "infoHotspots": [
@@ -3426,6 +3468,30 @@ var APP_DATA = {
           "pitch": -0.047,
           "rotation": 0,
           "target": "15-morskie-oko"
+        },
+        {
+          "yaw": 0.883385,
+          "pitch": -0.045752,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
+        },
+        {
+          "yaw": 0.438564,
+          "pitch": -0.041215,
+          "rotation": 0,
+          "target": "6-krzyne"
+        },
+        {
+          "yaw": 2.718643,
+          "pitch": -0.066368,
+          "rotation": 0,
+          "target": "21-lomnick-tt"
+        },
+        {
+          "yaw": -1.458401,
+          "pitch": -0.091684,
+          "rotation": 0,
+          "target": "17-batizovsk-dolina"
         }
       ],
       "infoHotspots": [
@@ -4591,6 +4657,12 @@ var APP_DATA = {
           "pitch": 0.07558732363081688,
           "rotation": 0,
           "target": "21-lomnick-tt"
+        },
+        {
+          "yaw": 0.651983,
+          "pitch": 0.022774,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
         }
       ],
       "infoHotspots": [
@@ -4826,6 +4898,12 @@ var APP_DATA = {
           "pitch": 0.03353755351525223,
           "rotation": 0,
           "target": "9-czerwone-wierchy"
+        },
+        {
+          "yaw": 1.282765,
+          "pitch": 0.071825,
+          "rotation": 0,
+          "target": "6-krzyne"
         }
       ],
       "infoHotspots": [
@@ -5439,15 +5517,15 @@ var APP_DATA = {
           "pitch": 0.05588424117443758,
           "rotation": 0,
           "target": "7-tapz-kiry"
-        }
-      ],
-      "infoHotspots": [
+        },
         {
           "yaw": -1.9255489144303652,
           "pitch": 0.06575986400053324,
-          "title": "Dolina Białki",
-          "text": "Text"
-        },
+          "rotation": 0,
+          "target": "5-dolina-biaki"
+        }
+      ],
+      "infoHotspots": [
         {
           "yaw": 0.3811450175237763,
           "pitch": 0.49099798803350403,
