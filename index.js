@@ -70,6 +70,38 @@
 
   // Initialize viewer.
   var viewer = new Marzipano.Viewer(panoElement, viewerOpts);
+  var currentScene = null;
+
+  function getCoordsFromMouseEvent(e) {
+    if (!currentScene || !currentScene.view) {
+      return null;
+    }
+
+    var rect = panoElement.getBoundingClientRect();
+    var x = e.clientX - rect.left;
+    var y = e.clientY - rect.top;
+
+    try {
+      return currentScene.view.screenToCoordinates({ x: x, y: y }, { width: rect.width, height: rect.height });
+    } catch (err) {
+      try {
+        return currentScene.view.screenToCoordinates({ x: x, y: y }, rect);
+      } catch (err2) {
+        return null;
+      }
+    }
+  }
+
+  panoElement.addEventListener('click', function(e) {
+    var coords = getCoordsFromMouseEvent(e);
+    if (!coords || !navigator.clipboard || !navigator.clipboard.writeText) {
+      return;
+    }
+
+    navigator.clipboard.writeText(
+      'yaw: ' + coords.yaw.toFixed(6) + ', pitch: ' + coords.pitch.toFixed(6)
+    ).catch(function() {});
+  });
 
   // Create scenes.
   var scenes = data.scenes.map(function(data) {
@@ -200,6 +232,7 @@
   }
 
   function switchScene(scene) {
+    currentScene = scene;
     stopAutorotate();
     scene.view.setParameters(scene.data.initialViewParameters);
     scene.scene.switchTo();

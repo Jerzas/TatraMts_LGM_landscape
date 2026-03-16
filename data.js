@@ -2315,7 +2315,7 @@ var APP_DATA = {
         {
           "yaw": 0.620310553914921,
           "pitch": 0.7941280348268034,
-          "title": "Mnich 2068",
+          "title": "Mnich 2068 - nunatak",
           "text": "Text"
         },
         {
@@ -2417,7 +2417,7 @@ var APP_DATA = {
         {
           "yaw": 1.3285270069446042,
           "pitch": 0.16619326471407803,
-          "title": "Hrubá veža 2428",
+          "title": "Hrubá veža 2428 - nunatak",
           "text": "Text"
         },
         {
@@ -2614,15 +2614,21 @@ var APP_DATA = {
           "text": "Text"
         },
         {
+          "yaw": -1.428157,
+          "pitch": 0.190121,
+          "title": "Dračia veža 2252 - nunatak",
+          "text": "Text"
+        },
+        {
           "yaw": -0.48097084750027896,
           "pitch": 0.3328208130955552,
-          "title": "<h2>Mengusovská dolina Glacier</h2>",
+          "title": "<h2>Mengusovský glacier</h2>",
           "text": "Text"
         },
         {
           "yaw": 0.0663381818942419,
           "pitch": 0.3208930884487593,
-          "title": "<h2>Mlynická dolina Glacier</h2>",
+          "title": "<h2>Mlynický glacier</h2>",
           "text": "Text"
         },
         {
@@ -2640,7 +2646,7 @@ var APP_DATA = {
         {
           "yaw": 2.148641743048236,
           "pitch": 0.25954748799204097,
-          "title": "<h2>Kôprová dolina Glacier</h2>",
+          "title": "<h2>Kôprovský glacier</h2>",
           "text": "Text"
         },
         {
@@ -2859,7 +2865,7 @@ var APP_DATA = {
         {
           "yaw": 2.5529330892790583,
           "pitch": 0.9740591453963177,
-          "title": "Mnich 2068",
+          "title": "Mnich 2068 - nunatak",
           "text": "Text"
         },
         {
@@ -2949,7 +2955,7 @@ var APP_DATA = {
         {
           "yaw": 0.27435544483451224,
           "pitch": 0.23392636495513486,
-          "title": "Hrubá veža 2083",
+          "title": "Hrubá veža 2083 - nunatak",
           "text": "Text"
         },
         {
@@ -3082,7 +3088,7 @@ var APP_DATA = {
         {
           "yaw": 0.7638647920246271,
           "pitch": 1.1413541718005327,
-          "title": "<h2>Kostolík 2262</h2>",
+          "title": "<h2>Kostolík 2262 - nunatak</h2>",
           "text": "Text"
         },
         {
@@ -3134,6 +3140,12 @@ var APP_DATA = {
           "text": "Text"
         },
         {
+          "yaw": -1.122944,
+          "pitch": 0.251810,
+          "title": "Dračia veža 2252 - nunatak",
+          "text": "Text"
+        },
+        {
           "yaw": -1.1115448229644773,
           "pitch": 0.07199412810787464,
           "title": "Kôprovský štít 2363",
@@ -3160,7 +3172,7 @@ var APP_DATA = {
         {
           "yaw": 0.2642885279356939,
           "pitch": 0.29185956452040074,
-          "title": "Hrubá veža 2086",
+          "title": "Hrubá veža 2086 - nunatak",
           "text": "Text"
         },
         {
@@ -3323,13 +3335,13 @@ var APP_DATA = {
         {
           "yaw": -0.9807515513278737,
           "pitch": 0.21257882300356634,
-          "title": "Dračia veža 2252",
+          "title": "Dračia veža 2252 - nunatak",
           "text": "Text"
         },
         {
           "yaw": 0.03674877831789125,
           "pitch": 0.6853019062011168,
-          "title": "Kostolík 2262",
+          "title": "Kostolík 2262 - nunatak",
           "text": "Text"
         },
         {
@@ -3420,7 +3432,7 @@ var APP_DATA = {
         {
           "yaw": -0.7314828381562464,
           "pitch": 0.5273564027052533,
-          "title": "<h2>Hrubá veža 2086</h2>",
+          "title": "<h2>Hrubá veža 2086 - nunatak</h2>",
           "text": "Text"
         },
         {
@@ -3727,7 +3739,7 @@ var APP_DATA = {
         {
           "yaw": -0.17416127130510972,
           "pitch": 0.1901249266732119,
-          "title": "Strelecká veža 2425",
+          "title": "Strelecká veža 2098 - nunatak",
           "text": "Text"
         },
         {
@@ -3769,7 +3781,7 @@ var APP_DATA = {
         {
           "yaw": -2.784,
           "pitch": 0.574,
-          "title": "Hrubá veža 2086",
+          "title": "Hrubá veža 2086 - nunatak",
           "text": "Text"
         }
       ]
@@ -3872,7 +3884,7 @@ var APP_DATA = {
         {
           "yaw": 0.24431700460877082,
           "pitch": 0.45452250294555263,
-          "title": "<h2>Strelecká veža Nunatak 2098</h2>",
+          "title": "<h2>Strelecká veža 2098 - nunatak</h2>",
           "text": "Text"
         },
         {
@@ -3902,7 +3914,7 @@ var APP_DATA = {
         {
           "yaw": -1.632579826002118,
           "pitch": 0.19551970133747965,
-          "title": "<h2>Mengusovská dolina piedmont glacier</h2>",
+          "title": "<h2>Mengusovský piedmont glacier</h2>",
           "text": "Text"
         },
         {
@@ -4205,7 +4217,7 @@ var APP_DATA = {
         {
           "yaw": 2.6485842699379694,
           "pitch": 0.46516908851022976,
-          "title": "Strelecká veža 2130",
+          "title": "Strelecká veža 2098 - nunatak",
           "text": "Text"
         }
       ]
@@ -4476,7 +4488,7 @@ var APP_DATA = {
         {
           "yaw": 2.94486942829895,
           "pitch": 0.15666974427210079,
-          "title": "Koprovy glacier",
+          "title": "Kôprovský glacier",
           "text": "Text"
         },
         {
@@ -5060,7 +5072,7 @@ var APP_DATA = {
         {
           "yaw": -0.4159694875353548,
           "pitch": 0.11067471937471751,
-          "title": "Hrubá veža 2086",
+          "title": "Hrubá veža 2086 - nunatak",
           "text": "Text"
         },
         {
@@ -5156,7 +5168,7 @@ var APP_DATA = {
         {
           "yaw": 0.5152986157475787,
           "pitch": 0.12415721609724173,
-          "title": "Mnich 2068",
+          "title": "Mnich 2068 - nunatak",
           "text": "Text"
         },
         {
