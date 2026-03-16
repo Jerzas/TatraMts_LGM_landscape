@@ -139,7 +139,20 @@
 </a>
 
 <a href="javascript:void(0)" id="hotspots-toggle">
-  <img class="icon" src="img/info.png">
+  <span class="icon off" aria-hidden="true">
+    <svg viewBox="0 0 24 24" role="img" focusable="false">
+      <path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7S1 12 1 12Z"></path>
+      <circle cx="12" cy="12" r="3"></circle>
+    </svg>
+  </span>
+  <span class="icon on" aria-hidden="true">
+    <svg viewBox="0 0 24 24" role="img" focusable="false">
+      <path d="M3 3l18 18"></path>
+      <path d="M10.6 10.7a3 3 0 0 0 4.2 4.2"></path>
+      <path d="M9.5 5.4A11.2 11.2 0 0 1 12 5c7 0 11 7 11 7a21.8 21.8 0 0 1-5 5.8"></path>
+      <path d="M6.7 6.8C3.6 8.6 1 12 1 12a22 22 0 0 0 7.4 6.2"></path>
+    </svg>
+  </span>
 </a>
 
 <a href="javascript:void(0)" id="fullscreenToggle">
@@ -177,55 +190,6 @@
 
 <script src="data.js"></script>
 <script src="index.js"></script>
-<style>
-#hotspots-toggle {
-  display: block;
-  position: absolute;
-  top: 0;
-  right: 40px;
-  width: 40px;
-  height: 40px;
-  cursor: pointer;
-}
-.mobile #hotspots-toggle {
-  width: 50px;
-  height: 50px;
-  right: 50px;
-}
-body.fullscreen-enabled #hotspots-toggle {
-  right: 80px;
-}
-body.fullscreen-enabled.mobile #hotspots-toggle {
-  right: 100px;
-}
-#hotspots-toggle .icon {
-  position: absolute;
-  top: 5px;
-  right: 5px;
-  width: 30px;
-  height: 30px;
-}
-#hotspots-toggle.hotspots-off {
-  opacity: 0.35;
-}
-body.hotspots-hidden .hotspot {
-  visibility: hidden !important;
-}
-body.hotspots-hidden .info-hotspot .info-hotspot-title-wrapper {
-  visibility: hidden !important;
-}
-</style>
-<script>
-(function() {
-  var visible = true;
-  var btn = document.getElementById('hotspots-toggle');
-  btn.addEventListener('click', function() {
-    visible = !visible;
-    document.body.classList.toggle('hotspots-hidden', !visible);
-    btn.classList.toggle('hotspots-off', !visible);
-  });
-})();
-</script>
 
 </body>
 </html>
