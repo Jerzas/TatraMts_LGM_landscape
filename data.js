@@ -2359,8 +2359,8 @@ var APP_DATA = {
           "target": "11-winica"
         },
         {
-          "yaw": -1.6416205361556901,
-          "pitch": 0.08545193434419573,
+          "yaw": -1.638505,
+          "pitch": -0.034367,
           "rotation": 0,
           "target": "10-vek-kopa"
         },
@@ -2369,6 +2369,18 @@ var APP_DATA = {
           "pitch": 0.08,
           "rotation": 0,
           "target": "15-morskie-oko"
+        },
+        {
+          "yaw": -0.218865,
+          "pitch": 0.059773,
+          "rotation": 0,
+          "target": "6-krzyne"
+        },
+        {
+          "yaw": 0.340976,
+          "pitch": 0.038155,
+          "rotation": 0,
+          "target": "5-dolina-biaki"
         }
       ],
       "infoHotspots": [
@@ -2594,8 +2606,8 @@ var APP_DATA = {
           "target": "16-kostolk"
         },
         {
-          "yaw": 3.027117148448337,
-          "pitch": 0.15646790647791775,
+          "yaw": 2.948742,
+          "pitch": 0.015660,
           "rotation": 0,
           "target": "13-kprovsk-tt"
         },
@@ -2612,8 +2624,8 @@ var APP_DATA = {
           "target": "11-winica"
         },
         {
-          "yaw": 2.1869899775782606,
-          "pitch": 0.017917151509070806,
+          "yaw": 2.296799,
+          "pitch": -0.000862,
           "rotation": 0,
           "target": "9-czerwone-wierchy"
         },
