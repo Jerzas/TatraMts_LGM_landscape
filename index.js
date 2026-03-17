@@ -350,10 +350,15 @@
   }
 
   function createInfoHotspotElement(hotspot) {
+    var rawText = hotspot && hotspot.text != null ? String(hotspot.text) : '';
+    var normalizedText = rawText.trim().toLowerCase();
+    var hasDetails = normalizedText !== '' && normalizedText !== 'text';
+
     // Create wrapper element to hold icon and tooltip.
     var wrapper = document.createElement('div');
     wrapper.classList.add('hotspot');
     wrapper.classList.add('info-hotspot');
+    wrapper.classList.add(hasDetails ? 'info-hotspot-has-details' : 'info-hotspot-no-details');
 
     // Create hotspot/tooltip header.
     var header = document.createElement('div');
@@ -395,24 +400,50 @@
 
     // Place header and text into wrapper element.
     wrapper.appendChild(header);
-    wrapper.appendChild(text);
+    if (hasDetails) {
+      wrapper.appendChild(text);
 
-    // Create a modal for the hotspot content to appear on mobile mode.
-    var modal = document.createElement('div');
-    modal.innerHTML = wrapper.innerHTML;
-    modal.classList.add('info-hotspot-modal');
-    document.body.appendChild(modal);
+      // Create a modal for the hotspot content to appear on mobile mode.
+      var modal = document.createElement('div');
+      modal.innerHTML = wrapper.innerHTML;
+      modal.classList.add('info-hotspot-modal');
+      document.body.appendChild(modal);
 
-    var toggle = function() {
-      wrapper.classList.toggle('visible');
-      modal.classList.toggle('visible');
-    };
+      var toggle = function() {
+        wrapper.classList.toggle('visible');
+        modal.classList.toggle('visible');
+      };
 
-    // Show content when hotspot is clicked.
-    wrapper.querySelector('.info-hotspot-header').addEventListener('click', toggle);
+      // Show content when hotspot is clicked.
+      wrapper.querySelector('.info-hotspot-header').addEventListener('click', toggle);
 
-    // Hide content when close icon is clicked.
-    modal.querySelector('.info-hotspot-close-wrapper').addEventListener('click', toggle);
+      // Hide content when close icon is clicked.
+      modal.querySelector('.info-hotspot-close-wrapper').addEventListener('click', toggle);
+
+      // Desktop hover: show text when hovering ANY part of the hotspot
+      var showText = function() {
+        text.style.visibility = 'visible';
+        text.style.opacity = '1';
+        text.style.zIndex = '10000';
+        titleWrapper.classList.add('hover-active');
+        wrapper.classList.add('info-hotspot-active');
+      };
+      var hideText = function() {
+        text.style.visibility = 'hidden';
+        text.style.opacity = '0';
+        text.style.zIndex = '0';
+        titleWrapper.classList.remove('hover-active');
+        wrapper.classList.remove('info-hotspot-active');
+      };
+
+      if (!document.body.classList.contains('mobile')) {
+        header.addEventListener('mouseenter', showText);
+        titleWrapper.addEventListener('mouseenter', showText);
+        text.addEventListener('mouseenter', showText);
+        text.addEventListener('mouseleave', hideText);
+        wrapper.addEventListener('mouseleave', hideText);
+      }
+    }
 
     // Prevent touch and scroll events from reaching the parent element.
     stopTouchAndScrollEventPropagation(wrapper);

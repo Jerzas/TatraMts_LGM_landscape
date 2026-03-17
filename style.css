@@ -484,6 +484,7 @@ body.single-scene #sceneListToggle {
   height: 0 !important;
   line-height: 1.2em;
   opacity: 0.9;
+  z-index: 10;
   overflow: visible !important;
   -webkit-transition: opacity 0.2s;
   transition: opacity 0.2s;
@@ -518,10 +519,15 @@ body.single-scene #sceneListToggle {
   padding: 0 !important;
   border-radius: 0 !important;
   background: transparent !important;
-  cursor: pointer;
+  cursor: default;
   overflow: visible !important;
+  pointer-events: auto;
   -webkit-transition: none !important;
   transition: none !important;
+}
+
+.info-hotspot.info-hotspot-has-details .info-hotspot-header {
+  cursor: pointer;
 }
 
 .mobile .info-hotspot .info-hotspot-header {
@@ -588,12 +594,18 @@ body.single-scene #sceneListToggle {
   height: 16px !important;
   min-width: 40px !important;
   max-width: 260px !important;
-  padding: 0 1px !important;
+  padding: 2px 4px !important;
   overflow: visible !important;
   white-space: nowrap !important;
   background: rgba(0,0,0,0.15) !important;
   border-radius: 4px !important;
   opacity: 1 !important;
+  cursor: default;
+  pointer-events: auto;
+  transition: background-color 0.15s ease !important;
+  color: #fff !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.8) !important;
+}
   visibility: visible !important;
   pointer-events: none !important;
   -webkit-transition: none !important;
@@ -633,18 +645,22 @@ body.single-scene #sceneListToggle {
   width: 300px;
   height: auto;
   max-height: 200px;
-  top: 40px;
-  left: 0;
-  padding: 10px;
+  top: auto;
+  bottom: 62px;
+  left: 50%;
+  padding: 6px 8px;
   background-color: rgba(58,68,84,0.95);
+  border: 1px solid rgba(255,255,255,0.4);
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   overflow-y: auto;
   visibility: hidden;
   opacity: 0;
-  -ms-transform: none !important;
-  -webkit-transform: none !important;
-  transform: none !important;
+  pointer-events: auto;
+  z-index: 10000;
+  -ms-transform: translateX(-50%) !important;
+  -webkit-transform: translateX(-50%) !important;
+  transform: translateX(-50%) !important;
   -webkit-transition: opacity 0.2s ease !important, visibility 0s linear 0.2s !important;
   transition: opacity 0.2s ease !important, visibility 0s linear 0.2s !important;
   -moz-user-select: text;
@@ -653,8 +669,17 @@ body.single-scene #sceneListToggle {
   user-select: text;
 }
 
+.info-hotspot.info-hotspot-active {
+  z-index: 11000;
+}
+
 .mobile .info-hotspot .info-hotspot-text {
   top: 50px;
+  bottom: auto;
+  left: 0;
+  -ms-transform: none !important;
+  -webkit-transform: none !important;
+  transform: none !important;
 }
 
 .desktop .info-hotspot.visible .info-hotspot-text,
@@ -838,5 +863,10 @@ body.view-control-buttons .viewControlButton {
 }
 .viewControlButton-6 {
   margin-left: 105px;
+}
+
+/* Info hotspot title hover state */
+.info-hotspot-title-wrapper.hover-active {
+  background: rgba(58,68,84,0.95) !important;
 }
 

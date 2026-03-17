@@ -172,7 +172,7 @@
         {
           "yaw": 1.4965702002493337,
           "pitch": 0.0383931553864727,
-          "title": "Ďumbier 2043",
+          "title": "ÄŽumbier 2043",
           "text": "Text"
         },
         {
@@ -293,7 +293,7 @@
         {
           "yaw": 1.6129993054664826,
           "pitch": 0.021168737967528273,
-          "title": "Ďumbier 2043",
+          "title": "ÄŽumbier 2043",
           "text": "Text"
         },
         {
@@ -335,7 +335,7 @@
         {
           "yaw": -0.20548343231427246,
           "pitch": 0.08792083956236851,
-          "title": "Wołowiec 2064",
+          "title": "WoĹ‚owiec 2064",
           "text": "Text"
         },
         {
@@ -365,7 +365,7 @@
         {
           "yaw": -1.1002863067338602,
           "pitch": 0.2691966658706555,
-          "title": "<strong data-start=\"15\" data-end=\"27\">Roháčsky glacier</strong>",
+          "title": "<strong data-start=\\"15\\" data-end=\\"27\\">Roháčsky glacier</strong>",
           "text": "Text"
         },
         {
@@ -389,7 +389,7 @@
         {
           "yaw": 0.9450392536338406,
           "pitch": 0.35006622809585686,
-          "title": "<strong data-start=\"22\" data-end=\"34\">Jamnícky glacier</strong>",
+          "title": "<strong data-start=\\"22\\" data-end=\\"34\\">Jamnícky glacier</strong>",
           "text": "Text"
         }
       ]
@@ -456,7 +456,7 @@
     },
     {
       "id": "3-woowiec",
-      "name": "Wołowiec",
+      "name": "WoĹ‚owiec",
       "levels": [
         {
           "tileSize": 256,
@@ -522,7 +522,7 @@
         {
           "yaw": 1.8659823801393278,
           "pitch": 0.591767936816094,
-          "title": "Wołowiec 2064",
+          "title": "WoĹ‚owiec 2064",
           "text": "Text"
         },
         {
@@ -570,7 +570,7 @@
         {
           "yaw": -1.1164191102351602,
           "pitch": 0.2731854646540466,
-          "title": "Chochołowski glacier",
+          "title": "ChochoĹ‚owski glacier",
           "text": "Text"
         },
         {
@@ -831,7 +831,7 @@
         {
           "yaw": -1.9585048952063069,
           "pitch": 0.33395624094920073,
-          "title": "Chochołowski glacier",
+          "title": "ChochoĹ‚owski glacier",
           "text": "Text"
         },
         {
@@ -855,13 +855,13 @@
         {
           "yaw": 0.042518037686113175,
           "pitch": 0.24863230665003755,
-          "title": "<strong data-start=\"438\" data-end=\"470\">Tichý glacier</strong>",
+          "title": "<strong data-start=\\"438\\" data-end=\\"470\\">Tichý glacier</strong>",
           "text": "Text"
         },
         {
           "yaw": 1.907304961742157,
           "pitch": 0.6249435343885494,
-          "title": "<strong data-start=\"160\" data-end=\"181\">Račkovský glacier</strong>",
+          "title": "<strong data-start=\\"160\\" data-end=\\"181\\">Račkovský glacier</strong>",
           "text": "Text"
         },
         {
@@ -885,7 +885,7 @@
         {
           "yaw": -2.5001549507817256,
           "pitch": 0.20453379600361998,
-          "title": "<strong data-start=\"149\" data-end=\"169\">Roháčsky Glacier</strong>",
+          "title": "<strong data-start=\\"149\\" data-end=\\"169\\">Roháčsky Glacier</strong>",
           "text": "Text"
         },
         {
@@ -993,7 +993,7 @@
         {
           "yaw": 2.1021909152292286,
           "pitch": 0.03883393641145716,
-          "title": "Ďumbier 2043",
+          "title": "ÄŽumbier 2043",
           "text": "Text"
         },
         {
@@ -1289,7 +1289,7 @@
         {
           "yaw": -0.49261894565660924,
           "pitch": 0.2712986588018733,
-          "title": "Łysanki 1447",
+          "title": "Ĺysanki 1447",
           "text": "Text"
         },
         {
@@ -1367,7 +1367,7 @@
         {
           "yaw": 2.1754739858776,
           "pitch": 0.19124179598024682,
-          "title": "Chochołowski glacier",
+          "title": "ChochoĹ‚owski glacier",
           "text": "Text"
         },
         {
@@ -1586,7 +1586,7 @@
         {
           "yaw": 1.779082421330485,
           "pitch": 0.013301694273978981,
-          "title": "<h1>Ďumbier 2045</h1>",
+          "title": "<h1>ÄŽumbier 2045</h1>",
           "text": "Text"
         },
         {
@@ -1981,7 +1981,7 @@
         {
           "yaw": -0.947355134883761,
           "pitch": 0.2646064125062981,
-          "title": "Białka glacier",
+          "title": "BiaĹ‚ka glacier",
           "text": "Text"
         },
         {
@@ -2258,7 +2258,7 @@
         {
           "yaw": 1.9435401650641557,
           "pitch": 0.016628868874805747,
-          "title": "Ďumbier 2043",
+          "title": "ÄŽumbier 2043",
           "text": "Text"
         },
         {
@@ -2465,7 +2465,7 @@
         {
           "yaw": -1.144587474926869,
           "pitch": 0.3312746987426074,
-          "title": "Gładki Wierch 2065",
+          "title": "GĹ‚adki Wierch 2065",
           "text": "Text"
         },
         {
@@ -2489,7 +2489,7 @@
         {
           "yaw": 1.2504346921875928,
           "pitch": 0.5309944457569991,
-          "title": "<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-(--header-height)\" tabindex=\"-1\" dir=\"auto\" data-turn-id=\"e8b1b8e7-1da0-41dd-a9c9-6ab922bbb879\" data-testid=\"conversation-turn-273\" data-scroll-anchor=\"false\" data-turn=\"user\"><div class=\"text-base my-auto mx-auto pt-12 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div tabindex=\"-1\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col\"><div class=\"z-0 flex justify-end\"></div></div></div></article><article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" tabindex=\"-1\" dir=\"auto\" data-turn-id=\"request-WEB:2e20e86e-88ed-4c00-85d3-3e9769969f9c-126\" data-testid=\"conversation-turn-274\" data-scroll-anchor=\"true\" data-turn=\"assistant\"><div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div tabindex=\"-1\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div data-message-author-role=\"assistant\" data-message-id=\"bf91f8f8-8d98-4bb7-ba68-abfffe0b5015\" dir=\"auto\" data-message-model-slug=\"gpt-5-3\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\"><p data-start=\"0\" data-end=\"98\" data-is-last-node=\"\" data-is-only-node=\"\">Mięguszowiecki Szczyt Wielki 2438</p></div></div></div></div></div></div></article>",
+          "title": "<article class=\\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-(--header-height)\\" tabindex=\\"-1\\" dir=\\"auto\\" data-turn-id=\\"e8b1b8e7-1da0-41dd-a9c9-6ab922bbb879\\" data-testid=\\"conversation-turn-273\\" data-scroll-anchor=\\"false\\" data-turn=\\"user\\"><div class=\\"text-base my-auto mx-auto pt-12 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\\"><div tabindex=\\"-1\\" class=\\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col\\"><div class=\\"z-0 flex justify-end\\"></div></div></div></article><article class=\\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\\" tabindex=\\"-1\\" dir=\\"auto\\" data-turn-id=\\"request-WEB:2e20e86e-88ed-4c00-85d3-3e9769969f9c-126\\" data-testid=\\"conversation-turn-274\\" data-scroll-anchor=\\"true\\" data-turn=\\"assistant\\"><div class=\\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\\"><div tabindex=\\"-1\\" class=\\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\\"><div class=\\"flex max-w-full flex-col gap-4 grow\\"><div data-message-author-role=\\"assistant\\" data-message-id=\\"bf91f8f8-8d98-4bb7-ba68-abfffe0b5015\\" dir=\\"auto\\" data-message-model-slug=\\"gpt-5-3\\" class=\\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\\"><div class=\\"flex w-full flex-col gap-1 empty:hidden\\"><div class=\\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\\"><p data-start=\\"0\\" data-end=\\"98\\" data-is-last-node=\\"\\" data-is-only-node=\\"\\">Mięguszowiecki Szczyt Wielki 2438</p></div></div></div></div></div></div></article>",
           "text": "Text"
         },
         {
@@ -2543,7 +2543,7 @@
         {
           "yaw": 0.3377709782884786,
           "pitch": 0.26587989394649725,
-          "title": "Białka glacier",
+          "title": "BiaĹ‚ka glacier",
           "text": "Text"
         },
         {
@@ -2706,7 +2706,7 @@
         {
           "yaw": -2.69106881941207,
           "pitch": 0.16367776249230026,
-          "title": "Białka Glacier",
+          "title": "BiaĹ‚ka Glacier",
           "text": "Text"
         },
         {
@@ -2973,7 +2973,7 @@
         {
           "yaw": -1.8985254715764448,
           "pitch": 0.28108479693065647,
-          "title": "Wołoszyn 2155",
+          "title": "WoĹ‚oszyn 2155",
           "text": "Text"
         },
         {
@@ -3021,7 +3021,7 @@
         {
           "yaw": -1.179535019238525,
           "pitch": 0.32665973317785557,
-          "title": "Białka glacier",
+          "title": "BiaĹ‚ka glacier",
           "text": "Text"
         },
         {
@@ -3322,7 +3322,7 @@
         {
           "yaw": -0.33785075333590164,
           "pitch": 0.16495497579862928,
-          "title": "<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-(--header-height)\" tabindex=\"-1\" dir=\"auto\" data-turn-id=\"79ede12c-5aee-4ce5-b7f8-1dcb9416382a\" data-testid=\"conversation-turn-291\" data-scroll-anchor=\"false\" data-turn=\"user\"><div class=\"text-base my-auto mx-auto pt-12 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div tabindex=\"-1\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col\"><div class=\"z-0 flex justify-end\"></div></div></div></article><article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" tabindex=\"-1\" dir=\"auto\" data-turn-id=\"request-WEB:2e20e86e-88ed-4c00-85d3-3e9769969f9c-135\" data-testid=\"conversation-turn-292\" data-scroll-anchor=\"false\" data-turn=\"assistant\"><div class=\"text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div tabindex=\"-1\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div data-message-author-role=\"assistant\" data-message-id=\"9fb5a532-4991-47aa-bc4c-837b686b43f8\" dir=\"auto\" data-message-model-slug=\"gpt-5-3\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\"><p data-start=\"0\" data-end=\"11\" data-is-last-node=\"\" data-is-only-node=\"\">Mlynár 2170</p></div></div></div></div></div></div></article>",
+          "title": "<article class=\\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-(--header-height)\\" tabindex=\\"-1\\" dir=\\"auto\\" data-turn-id=\\"79ede12c-5aee-4ce5-b7f8-1dcb9416382a\\" data-testid=\\"conversation-turn-291\\" data-scroll-anchor=\\"false\\" data-turn=\\"user\\"><div class=\\"text-base my-auto mx-auto pt-12 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\\"><div tabindex=\\"-1\\" class=\\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col\\"><div class=\\"z-0 flex justify-end\\"></div></div></div></article><article class=\\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\\" tabindex=\\"-1\\" dir=\\"auto\\" data-turn-id=\\"request-WEB:2e20e86e-88ed-4c00-85d3-3e9769969f9c-135\\" data-testid=\\"conversation-turn-292\\" data-scroll-anchor=\\"false\\" data-turn=\\"assistant\\"><div class=\\"text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\\"><div tabindex=\\"-1\\" class=\\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\\"><div class=\\"flex max-w-full flex-col gap-4 grow\\"><div data-message-author-role=\\"assistant\\" data-message-id=\\"9fb5a532-4991-47aa-bc4c-837b686b43f8\\" dir=\\"auto\\" data-message-model-slug=\\"gpt-5-3\\" class=\\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\\"><div class=\\"flex w-full flex-col gap-1 empty:hidden\\"><div class=\\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\\"><p data-start=\\"0\\" data-end=\\"11\\" data-is-last-node=\\"\\" data-is-only-node=\\"\\">Mlynár 2170</p></div></div></div></div></div></div></article>",
           "text": "Text"
         }
       ]
@@ -3630,7 +3630,7 @@
         {
           "yaw": 0.6772850608956382,
           "pitch": 0.2431331490862796,
-          "title": "Białka Glacier",
+          "title": "BiaĹ‚ka Glacier",
           "text": "Text"
         },
         {
@@ -3696,7 +3696,7 @@
         {
           "yaw": 0.4915077232364915,
           "pitch": 0.03027851725075692,
-          "title": "Wielki Wołoszyn 2155",
+          "title": "Wielki WoĹ‚oszyn 2155",
           "text": "Text"
         },
         {
@@ -3859,7 +3859,7 @@
         {
           "yaw": -2.3455405553676982,
           "pitch": 0.2693717610381423,
-          "title": "Białka glacier",
+          "title": "BiaĹ‚ka glacier",
           "text": "Text"
         },
         {
@@ -3931,7 +3931,7 @@
         {
           "yaw": 2.4568443685276895,
           "pitch": 0.010205461011885575,
-          "title": "Ďumbier 2043",
+          "title": "ÄŽumbier 2043",
           "text": "Text"
         },
         {
@@ -4082,7 +4082,7 @@
         {
           "yaw": -0.23305439188412969,
           "pitch": 0.17125838215602585,
-          "title": "Białka Glacier",
+          "title": "BiaĹ‚ka Glacier",
           "text": "Text"
         },
         {
@@ -4361,7 +4361,7 @@
         {
           "yaw": -2.596643086883045,
           "pitch": 0.18987418808170275,
-          "title": "Białka glacier",
+          "title": "BiaĹ‚ka glacier",
           "text": "Text"
         },
         {
@@ -4668,7 +4668,7 @@
         {
           "yaw": -1.4554957527855663,
           "pitch": 0.1724649482728502,
-          "title": "Chochołowski glacier",
+          "title": "ChochoĹ‚owski glacier",
           "text": "Text"
         },
         {
@@ -4686,13 +4686,13 @@
         {
           "yaw": 0.7799068059830017,
           "pitch": 0.2637331835011967,
-          "title": "Sarnia Skała",
+          "title": "Sarnia SkaĹ‚a",
           "text": "Text"
         },
         {
           "yaw": 0.4074674292251217,
           "pitch": 0.33876947513918765,
-          "title": "Łysanki",
+          "title": "Ĺysanki",
           "text": "Text"
         },
         {
@@ -4873,7 +4873,7 @@
         {
           "yaw": 0.8078966939109709,
           "pitch": 0.12330828265929483,
-          "title": "Białka glacier",
+          "title": "BiaĹ‚ka glacier",
           "text": "Text"
         },
         {
@@ -4916,7 +4916,7 @@
     },
     {
       "id": "5-dolina-biaki",
-      "name": "Dolina Białki",
+      "name": "Dolina BiaĹ‚ki",
       "levels": [
         {
           "tileSize": 256,
@@ -5042,7 +5042,7 @@
         {
           "yaw": 2.9805720879909234,
           "pitch": 0.6768323249827048,
-          "title": "Białka glacier",
+          "title": "BiaĹ‚ka glacier",
           "text": "Text"
         },
         {
@@ -5054,7 +5054,7 @@
         {
           "yaw": 2.9822903867040207,
           "pitch": 0.4331718301402496,
-          "title": "Goły Wierch 1206",
+          "title": "GoĹ‚y Wierch 1206",
           "text": "Text"
         },
         {
@@ -5234,13 +5234,13 @@
         {
           "yaw": -2.8300449870631397,
           "pitch": 0.4788811239892503,
-          "title": "Łysa Polana 970",
+          "title": "Ĺysa Polana 970",
           "text": "Text"
         },
         {
           "yaw": -2.943210045582285,
           "pitch": 0.4705594061804579,
-          "title": "Łysa Skałka 1129",
+          "title": "Ĺysa SkaĹ‚ka 1129",
           "text": "Text"
         },
         {
@@ -5402,7 +5402,7 @@
         {
           "yaw": 0.692211744075335,
           "pitch": 0.015891185102818284,
-          "title": "Ďumbier 2043",
+          "title": "ÄŽumbier 2043",
           "text": "Text"
         },
         {
@@ -5510,7 +5510,7 @@
         {
           "yaw": 1.3685142748085024,
           "pitch": 0.25967463325953055,
-          "title": "Skrajny Wołoszyn 2168",
+          "title": "Skrajny WoĹ‚oszyn 2168",
           "text": "Text"
         },
         {
