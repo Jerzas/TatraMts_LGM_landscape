@@ -1,0 +1,3117 @@
+﻿[
+    {
+        "name":  {
+                     "value":  "Sivý vrch",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  1
+                 },
+        "type":  "other",
+        "lon":  19.642154,
+        "lat":  49.2111302,
+        "source":  "Sivý vrch, Zuberec, okres Tvrdošín, Žilinský kraj, Stredné Slovensko, Slovensko"
+    },
+    {
+        "name":  {
+                     "value":  "Ostrá",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  2
+                 },
+        "type":  "other",
+        "lon":  14.8928473,
+        "lat":  50.1805192,
+        "source":  "Ostrá, SO POÚ Lysá nad Labem, SO ORP Lysá nad Labem, okres Nymburk, Středočeský kraj, Střední Čechy, Česko"
+    },
+    {
+        "name":  {
+                     "value":  "Pálenica difluence",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  3
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Babia Góra",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  4
+                 },
+        "type":  "peak/ridge",
+        "lon":  19.5293303,
+        "lat":  49.5730231,
+        "source":  "Babia Góra / Babia hora, Zawoja, gmina Zawoja, powiat suski, województwo małopolskie, Polska"
+    },
+    {
+        "name":  {
+                     "value":  "Poľana",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  5
+                 },
+        "type":  "other",
+        "lon":  19.4401152,
+        "lat":  48.6600124,
+        "source":  "Poľana, Banskobystrický kraj, Stredné Slovensko, Slovensko"
+    },
+    {
+        "name":  {
+                     "value":  "Salatín",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  6
+                 },
+        "type":  "other",
+        "lon":  19.3543441,
+        "lat":  48.9891937,
+        "source":  "Salatín, okres Ružomberok, Žilinský kraj, Stredné Slovensko, Slovensko"
+    },
+    {
+        "name":  {
+                     "value":  "Bobrovecký glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  7
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hlboký glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  8
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Roháčsky glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  9
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Ráztoka",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  10
+                 },
+        "type":  "other",
+        "lon":  19.4017318,
+        "lat":  48.8201115,
+        "source":  "Ráztoka, okres Brezno, Banskobystrický kraj, Stredné Slovensko, Slovensko"
+    },
+    {
+        "name":  {
+                     "value":  "Jalovecká dolina",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  11
+                 },
+        "type":  "valley/river",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Podválovec glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  12
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Veľký Choč",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  13
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Veľký Kriváň",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  14
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Ďumbier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  15
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Osobitá",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  16
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Baníkov",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  17
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Pachoľa",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  18
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Králova hoľa",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  19
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Wołowiec",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  20
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kriváň",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  21
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Jalovecký glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  23
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hlboká dolina glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  24
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Roháče",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  25
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Bystrá",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  26
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Świnica",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  27
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Chochołowski glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  28
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Jamnícky glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  29
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Plačlivô",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  30
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Rakoń",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  31
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Grześ",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  32
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Jarząbczy Wierch",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  33
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Starorobociański Wierch",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  34
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Starorobociański glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  35
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kościeliski glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  36
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kôprovský glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  37
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Bystrý glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  38
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kamenistý glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  39
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Gerlachovský štít",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  40
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Trzydniowiański Wierch",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  41
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Starorobociański W",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  42
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Jakubiná",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  43
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Nižná Bystrá",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  44
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hrubý Regiel",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  45
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Łysanki",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  46
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Smreczyński Wierch",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  47
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Miętusi glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  48
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Mała Łąka glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  49
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Ladový štít",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  50
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Dolina Kościeliska",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  51
+                 },
+        "type":  "valley/river",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Tichá dolina Glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  52
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Miętusia Dol. Glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  53
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Mała Łąka Glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  54
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Małołączniak",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  55
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Veľká kopa",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  56
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kościeliski Glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  57
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Tichá glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  58
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Pięciu Stawów Polskich glacier basin",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  59
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Mały Kościelec",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  60
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kościelec",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  61
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hrubý vrch",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  62
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Żółta Turnia",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  63
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Białka glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  64
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Gubałówka",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  65
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Pańszczyca glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  66
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kuźnice",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  67
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kôprová dolina",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  68
+                 },
+        "type":  "valley/river",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hlinský glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  69
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Tichý glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  70
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Veľký Bok",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  71
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Krátka",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  72
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Končistá",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  73
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Pięć Stawów Polskich cirque field",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  74
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Veľká kopa 2052",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  75
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Belá river",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  76
+                 },
+        "type":  "valley/river",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hrubá kopa",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  77
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Kôprovský štít",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  78
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Mnich 2068",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  79
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Gładki Wierch",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  80
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Żabi Szczyt Wyżni",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  81
+                 },
+        "type":  "other",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Satán",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  83
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Tupá",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  84
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hrubá veža 2428",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  85
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Mlynický glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  86
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Mengusovský glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  87
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Važecký glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  88
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Hlinská veža",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  89
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Białka Glacier",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  90
+                 },
+        "type":  "glacier",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    },
+    {
+        "name":  {
+                     "value":  "Dračia veža 2252",
+                     "PSPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape\\_geo_names_clean.txt",
+                     "PSParentPath":  "D:\\Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                     "PSChildName":  "_geo_names_clean.txt",
+                     "PSDrive":  {
+                                     "CurrentLocation":  "Terragen\\360Panorama_Marzipano\\clone\\TatraMts_LGM_landscape",
+                                     "Name":  "D",
+                                     "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                     "Root":  "D:\\",
+                                     "Description":  "Dane",
+                                     "MaximumSize":  null,
+                                     "Credential":  "System.Management.Automation.PSCredential",
+                                     "DisplayRoot":  null
+                                 },
+                     "PSProvider":  {
+                                        "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                        "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                        "Name":  "FileSystem",
+                                        "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                        "ModuleName":  "Microsoft.PowerShell.Core",
+                                        "Module":  null,
+                                        "Description":  "",
+                                        "Capabilities":  52,
+                                        "Home":  "C:\\Users\\jerzy",
+                                        "Drives":  "C D E G"
+                                    },
+                     "ReadCount":  91
+                 },
+        "type":  "peak/ridge",
+        "lon":  null,
+        "lat":  null,
+        "source":  null
+    }
+]

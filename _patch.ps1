@@ -993,7 +993,7 @@ $c = Patch $c "5-dolina-biaki" @'
         {
           "yaw": 0.4065981319621592,
           "pitch": 0.2539236180397584,
-          "title": "Morskie Oko will be hire",
+          "title": "Morskie Oko will be here",
           "text": "Text"
         },
         {

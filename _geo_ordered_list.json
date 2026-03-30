@@ -1,0 +1,1550 @@
+﻿[
+    {
+        "rank":  1,
+        "name":  "Spišská Magura",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  2,
+        "name":  "Sarnia Skała",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  3,
+        "name":  "Jahňací štít",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  4,
+        "name":  "Čierny štít",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  5,
+        "name":  "Łysa Skałka",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  6,
+        "name":  "Čergov",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  7,
+        "name":  "Żabi Koń",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  8,
+        "name":  "Veža nad kolibou",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  9,
+        "name":  "Veľkostudený glacier",
+        "type":  "glacier",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  10,
+        "name":  "Huncovský glacier",
+        "type":  "glacier",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  11,
+        "name":  "Strelecká veža 2098",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  12,
+        "name":  "Velická dolina Glacier",
+        "type":  "glacier",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  13,
+        "name":  "Dolina Białki",
+        "type":  "valley/river",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  14,
+        "name":  "Kościeliska valley",
+        "type":  "valley/river",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  15,
+        "name":  "Kopské sedlo",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  16,
+        "name":  "Cyrchla nad Białką",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  17,
+        "name":  "Gorce Mts.",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  18,
+        "name":  "Veľkostudený piedmont glacier",
+        "type":  "glacier",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  19,
+        "name":  "Kežmarský glacier",
+        "type":  "glacier",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  20,
+        "name":  "Malostudený glacier",
+        "type":  "glacier",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  21,
+        "name":  "STARÝ SMOKOVEC",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  22,
+        "name":  "Mengusovský piedmont glacier",
+        "type":  "glacier",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  23,
+        "name":  "Skrajny Wołoszyn",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  24,
+        "name":  "Javorový štít",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  25,
+        "name":  "Zadná kopa",
+        "type":  "peak/ridge",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  26,
+        "name":  "Bielovodská veža",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  27,
+        "name":  "Świstówka icefall",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  28,
+        "name":  "Łysa Polana",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  29,
+        "name":  "Huncovský štít",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  30,
+        "name":  "TATRANSKÁ LOMNICA",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  31,
+        "name":  "Kýčera",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  32,
+        "name":  "Veľký Baboš",
+        "type":  "other",
+        "lon":  19.7003,
+        "lat":  49.2022,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832488"
+    },
+    {
+        "rank":  33,
+        "name":  "Králova hoľa",
+        "type":  "other",
+        "lon":  19.7054,
+        "lat":  49.19965,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3504289"
+    },
+    {
+        "rank":  34,
+        "name":  "Wołowiec",
+        "type":  "other",
+        "lon":  19.7054,
+        "lat":  49.19965,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3504289"
+    },
+    {
+        "rank":  35,
+        "name":  "Hoľica",
+        "type":  "other",
+        "lon":  19.747778,
+        "lat":  49.197222,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3501678"
+    },
+    {
+        "rank":  36,
+        "name":  "Žabí glacier",
+        "type":  "glacier",
+        "lon":  19.747778,
+        "lat":  49.197222,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3501678"
+    },
+    {
+        "rank":  37,
+        "name":  "Waksmundzka Przełęcz",
+        "type":  "other",
+        "lon":  19.747778,
+        "lat":  49.197222,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3501678"
+    },
+    {
+        "rank":  38,
+        "name":  "Skalnatý glacier",
+        "type":  "glacier",
+        "lon":  19.747778,
+        "lat":  49.197222,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3501678"
+    },
+    {
+        "rank":  39,
+        "name":  "Bujačí vrch 1947",
+        "type":  "peak/ridge",
+        "lon":  19.747778,
+        "lat":  49.197222,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3501678"
+    },
+    {
+        "rank":  40,
+        "name":  "Pyšný štít",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  41,
+        "name":  "Červená dolina",
+        "type":  "valley/river",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  42,
+        "name":  "Krzyżne",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  43,
+        "name":  "Levočské vrchy",
+        "type":  "peak/ridge",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  44,
+        "name":  "Plačlivé",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  45,
+        "name":  "Kežmarský štít",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  46,
+        "name":  "Zámky",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  47,
+        "name":  "Żabia Czuba",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  48,
+        "name":  "Miętusia glacier",
+        "type":  "glacier",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  49,
+        "name":  "Široká glacier",
+        "type":  "glacier",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  50,
+        "name":  "Kežmarski glacier",
+        "type":  "glacier",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  51,
+        "name":  "Gęsia Szyja",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  52,
+        "name":  "Goły Wierch",
+        "type":  "peak/ridge",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  53,
+        "name":  "Úplazky",
+        "type":  "other",
+        "lon":  19.756058,
+        "lat":  49.194072,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q11832490"
+    },
+    {
+        "rank":  54,
+        "name":  "Ladový štít",
+        "type":  "other",
+        "lon":  19.819981,
+        "lat":  49.19915,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3544114"
+    },
+    {
+        "rank":  55,
+        "name":  "Nižná Bystrá",
+        "type":  "other",
+        "lon":  19.819981,
+        "lat":  49.19915,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3544114"
+    },
+    {
+        "rank":  56,
+        "name":  "Gubałówka",
+        "type":  "other",
+        "lon":  19.935833,
+        "lat":  49.3075,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q913060"
+    },
+    {
+        "rank":  57,
+        "name":  "Kuźnice",
+        "type":  "other",
+        "lon":  19.935833,
+        "lat":  49.3075,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q913060"
+    },
+    {
+        "rank":  58,
+        "name":  "Pańszczyca glacier",
+        "type":  "glacier",
+        "lon":  19.935833,
+        "lat":  49.3075,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q913060"
+    },
+    {
+        "rank":  59,
+        "name":  "Kôprová dolina",
+        "type":  "valley/river",
+        "lon":  19.935833,
+        "lat":  49.3075,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q913060"
+    },
+    {
+        "rank":  60,
+        "name":  "Bystrá",
+        "type":  "other",
+        "lon":  20.000047,
+        "lat":  49.162834,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q845990"
+    },
+    {
+        "rank":  61,
+        "name":  "Plačlivô",
+        "type":  "other",
+        "lon":  20.000047,
+        "lat":  49.162834,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q845990"
+    },
+    {
+        "rank":  62,
+        "name":  "Roháče",
+        "type":  "other",
+        "lon":  20.000047,
+        "lat":  49.162834,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q845990"
+    },
+    {
+        "rank":  63,
+        "name":  "Vysoká",
+        "type":  "other",
+        "lon":  20.088333,
+        "lat":  49.183889,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q3284720"
+    },
+    {
+        "rank":  64,
+        "name":  "Wielki Mięguszowiecki Szczyt",
+        "type":  "other",
+        "lon":  20.145556,
+        "lat":  49.175278,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q720940"
+    },
+    {
+        "rank":  65,
+        "name":  "Poľský hrebeň",
+        "type":  "other",
+        "lon":  20.145556,
+        "lat":  49.175278,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q720940"
+    },
+    {
+        "rank":  66,
+        "name":  "Svišťový štít",
+        "type":  "other",
+        "lon":  20.145556,
+        "lat":  49.175278,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q720940"
+    },
+    {
+        "rank":  67,
+        "name":  "Kačacia dolina glacier",
+        "type":  "glacier",
+        "lon":  20.145556,
+        "lat":  49.175278,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q720940"
+    },
+    {
+        "rank":  68,
+        "name":  "Tupá",
+        "type":  "other",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  69,
+        "name":  "Mengusovský glacier",
+        "type":  "glacier",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  70,
+        "name":  "Satán",
+        "type":  "other",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  71,
+        "name":  "Hrubá kopa",
+        "type":  "peak/ridge",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  72,
+        "name":  "Kôprovský štít",
+        "type":  "other",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  73,
+        "name":  "Gładki Wierch",
+        "type":  "peak/ridge",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  74,
+        "name":  "Mnich 2068",
+        "type":  "peak/ridge",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  75,
+        "name":  "Hrubá veža 2428",
+        "type":  "other",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  76,
+        "name":  "Mlynický glacier",
+        "type":  "glacier",
+        "lon":  115.4,
+        "lat":  0.6,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005620"
+    },
+    {
+        "rank":  77,
+        "name":  "Żabi Szczyt Wyżni",
+        "type":  "other",
+        "lon":  118.683333,
+        "lat":  -8.55,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005623"
+    },
+    {
+        "rank":  78,
+        "name":  "Belá river",
+        "type":  "valley/river",
+        "lon":  118.683333,
+        "lat":  -8.55,
+        "status":  "coordinate-based",
+        "source":  "wikidata:Q25005623"
+    },
+    {
+        "rank":  79,
+        "name":  "Babia Góra",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  80,
+        "name":  "Baníkov",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  81,
+        "name":  "Batizovská dolina",
+        "type":  "valley/river",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  82,
+        "name":  "Batizovský štít",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  83,
+        "name":  "Białka glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  84,
+        "name":  "Białka Glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  85,
+        "name":  "Bielovodský glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  86,
+        "name":  "Bobrovecký glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  87,
+        "name":  "Bystrý glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  88,
+        "name":  "Chochołowski glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  89,
+        "name":  "Dolina Kościeliska",
+        "type":  "valley/river",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  90,
+        "name":  "Dračia veža 2252",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  91,
+        "name":  "Ďumbier",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  92,
+        "name":  "Gerlachovský štít",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  93,
+        "name":  "Grześ",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  94,
+        "name":  "Hlboká dolina glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  95,
+        "name":  "Hlboký glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  96,
+        "name":  "Hlinská veža",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  97,
+        "name":  "Hlinský glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  98,
+        "name":  "Hrubá veža",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  99,
+        "name":  "Hrubá veža 2083",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  100,
+        "name":  "Hrubá veža 2086",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  101,
+        "name":  "Hrubý Regiel",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  102,
+        "name":  "Hrubý vrch",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  103,
+        "name":  "Jakubiná",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  104,
+        "name":  "Jalovecká dolina",
+        "type":  "valley/river",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  105,
+        "name":  "Jalovecký glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  106,
+        "name":  "Jamnícky glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  107,
+        "name":  "Jarząbczy Wierch",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  108,
+        "name":  "Javorový glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  109,
+        "name":  "Kamenistý glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  110,
+        "name":  "Končistá",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  111,
+        "name":  "Kôprovský glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  112,
+        "name":  "Kostolík",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  113,
+        "name":  "Kostolík 2262",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  114,
+        "name":  "Kościelec",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  115,
+        "name":  "Kościeliski Glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  116,
+        "name":  "Kościeliski glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  117,
+        "name":  "Krátka",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  118,
+        "name":  "Kriváň",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  119,
+        "name":  "Ľadový štít",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  120,
+        "name":  "Lomnický štít",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  121,
+        "name":  "Lubań",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  122,
+        "name":  "Łysanki",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  123,
+        "name":  "Mała Łąka Glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  124,
+        "name":  "Mała Łąka glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  125,
+        "name":  "Małołączniak",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  126,
+        "name":  "Mały Kościelec",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  127,
+        "name":  "Mięguszowiecki Szczyt Czarny",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  128,
+        "name":  "Mięguszowiecki Szczyt Wielki",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  129,
+        "name":  "Miętusi glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  130,
+        "name":  "Miętusia Dol. Glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  131,
+        "name":  "Mlynár",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  132,
+        "name":  "Niżne Rysy",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  133,
+        "name":  "Osobitá",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  134,
+        "name":  "Ostrá",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  135,
+        "name":  "Ostrý štít",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  136,
+        "name":  "Pachoľa",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  137,
+        "name":  "Pálenica difluence",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  138,
+        "name":  "Pięciu Stawów Polskich glacier basin",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  139,
+        "name":  "Pięć Stawów Polskich cirque field",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  140,
+        "name":  "Podválovec glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  141,
+        "name":  "Poľana",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  142,
+        "name":  "Prostredný hrot",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  143,
+        "name":  "Rakoń",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  144,
+        "name":  "Ráztoka",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  145,
+        "name":  "Roháčsky glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  146,
+        "name":  "Rumanov štít",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  147,
+        "name":  "Salatín",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  148,
+        "name":  "Široká",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  149,
+        "name":  "Sivý vrch",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  150,
+        "name":  "Slavkovský štít",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  151,
+        "name":  "Smreczyński Wierch",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  152,
+        "name":  "Starorobociański glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  153,
+        "name":  "Starorobociański W",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  154,
+        "name":  "Starorobociański Wierch",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  155,
+        "name":  "Świnica",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  156,
+        "name":  "Tichá dolina Glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  157,
+        "name":  "Tichá glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  158,
+        "name":  "Tichý glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  159,
+        "name":  "Trzydniowiański Wierch",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  160,
+        "name":  "Važecký glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  161,
+        "name":  "Velický glacier",
+        "type":  "glacier",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  162,
+        "name":  "Veľká kopa",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  163,
+        "name":  "Veľká kopa 2052",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  164,
+        "name":  "Veľké Solisko",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  165,
+        "name":  "Veľký Bok",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  166,
+        "name":  "Veľký Choč",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  167,
+        "name":  "Veľký Kriváň",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  168,
+        "name":  "Východná Vysoká",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  169,
+        "name":  "Wielki Wołoszyn",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  170,
+        "name":  "Wołoszyn",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  171,
+        "name":  "Wrota Chałubińskiego 2022",
+        "type":  "other",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    },
+    {
+        "rank":  172,
+        "name":  "Żółta Turnia",
+        "type":  "peak/ridge",
+        "lon":  "",
+        "lat":  "",
+        "status":  "estimated (scene-proximity fallback)",
+        "source":  "scene fallback"
+    }
+]

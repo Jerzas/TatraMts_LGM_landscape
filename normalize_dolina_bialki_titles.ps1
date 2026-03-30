@@ -84,7 +84,7 @@ $map = [ordered]@{
   'Chovancov vyrch' = 'Chovanec'
   'Zamky' = 'Zámky'
   'Skrajny Wołoszyn' = 'Skrajny Wołoszyn 2168'
-  'Morskie Oko will be hire' = 'Morskie Oko'
+  'Morskie Oko will be here' = 'Morskie Oko'
 }
 
 foreach ($old in $map.Keys) {

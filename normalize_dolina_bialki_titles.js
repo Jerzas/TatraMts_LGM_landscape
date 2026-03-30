@@ -75,7 +75,7 @@ const replacements = {
   'Filipka Valley': 'Dolina Filipka',
   'Chovancov vyrch': 'Chovanec',
   'Zamky': 'Zámky',
-  'Morskie Oko will be hire': 'Morskie Oko',
+  'Morskie Oko will be here': 'Morskie Oko',
 
   '<h2>Bielovodská veža</h2>': 'Bielovodská veža',
   '<h1>Żabia Czuba 2080</h1>': 'Żabia Czuba 2080',

@@ -3105,7 +3105,7 @@
         {
           "yaw": -0.44936871759935215,
           "pitch": 1.3156155620130434,
-          "title": "Morskie Oko will be hire",
+          "title": "Morskie Oko will be here",
           "text": "Text"
         },
         {
@@ -4311,9 +4311,9 @@
           "text": "Text"
         },
         {
-          "yaw": 3.0151509787283803,
-          "pitch": 0.42404257329137707,
-          "title": "Ostrý štít 2361",
+          "yaw": 3.005358,
+          "pitch": 0.419797,
+          "title": "Široká veža 2465",
           "text": "Text"
         },
         {
@@ -5522,7 +5522,7 @@
         {
           "yaw": 0.4065981319621592,
           "pitch": 0.2539236180397584,
-          "title": "Morskie Oko will be hire",
+          "title": "Morskie Oko will be here",
           "text": "Text"
         }
       ]
